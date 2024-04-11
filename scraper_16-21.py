@@ -70,8 +70,8 @@ def parse_round(sec):
         for (i, role) in enumerate(r):
             frame.append([name, roles[role]["country"], fightnum, role, float(data[i+1].text), roles[role]["name"], problem, roundnum, fightName])
 
-for i in range(78):
-    scorepage = requests.get("https://archive.ipt.ee/ipt_connect-2016-2022/IPT2021/rounds/" + str(i + 1) + "/index.html")
+for i in range(100):
+    scorepage = requests.get("https://archive.ipt.ee/ipt_connect-2016-2022/IPT2019/rounds/" + str(i + 1) + "/index.html")
     print(i)
 
 

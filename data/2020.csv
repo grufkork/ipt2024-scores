@@ -1,0 +1,275 @@
+,juror,country,fight,role,score,participant,problem,round,fightName
+0,Dmytro (Dima) Oliinychenko,Ukraine,1,Rep,9.0,Hryhorii Ovcharenko,3. Paper tube,1,Selective Fight 1| Room Room 2: Sebastian Fava| Round 1
+1,Dmytro (Dima) Oliinychenko,France,1,Opp,9.0,Liam Rampon,3. Paper tube,1,Selective Fight 1| Room Room 2: Sebastian Fava| Round 1
+2,Georgy Fedorov,Ukraine,1,Rep,8.0,Hryhorii Ovcharenko,3. Paper tube,1,Selective Fight 1| Room Room 2: Sebastian Fava| Round 1
+3,Georgy Fedorov,France,1,Opp,7.0,Liam Rampon,3. Paper tube,1,Selective Fight 1| Room Room 2: Sebastian Fava| Round 1
+4,Juergen Durst,Ukraine,1,Rep,8.0,Hryhorii Ovcharenko,3. Paper tube,1,Selective Fight 1| Room Room 2: Sebastian Fava| Round 1
+5,Juergen Durst,France,1,Opp,6.0,Liam Rampon,3. Paper tube,1,Selective Fight 1| Room Room 2: Sebastian Fava| Round 1
+6,Stanislav Vinogradov,Ukraine,1,Rep,7.0,Hryhorii Ovcharenko,3. Paper tube,1,Selective Fight 1| Room Room 2: Sebastian Fava| Round 1
+7,Stanislav Vinogradov,France,1,Opp,6.0,Liam Rampon,3. Paper tube,1,Selective Fight 1| Room Room 2: Sebastian Fava| Round 1
+8,Klim Sladkov,Slovenia,1,Rep,4.0,Ema Mlinar,7. Wavy pages,1,Selective Fight 1| Room Room 3: Nikolay Lysenko| Round 1
+9,Klim Sladkov,China,1,Opp,4.0,Weijie Xu,7. Wavy pages,1,Selective Fight 1| Room Room 3: Nikolay Lysenko| Round 1
+10,Luis Nunez,Slovenia,1,Rep,7.0,Ema Mlinar,7. Wavy pages,1,Selective Fight 1| Room Room 3: Nikolay Lysenko| Round 1
+11,Luis Nunez,China,1,Opp,5.0,Weijie Xu,7. Wavy pages,1,Selective Fight 1| Room Room 3: Nikolay Lysenko| Round 1
+12,Oleksiy Golubov,Slovenia,1,Rep,4.0,Ema Mlinar,7. Wavy pages,1,Selective Fight 1| Room Room 3: Nikolay Lysenko| Round 1
+13,Oleksiy Golubov,China,1,Opp,4.0,Weijie Xu,7. Wavy pages,1,Selective Fight 1| Room Room 3: Nikolay Lysenko| Round 1
+14,Vladimir Vanovskiy,Slovenia,1,Rep,6.0,Ema Mlinar,7. Wavy pages,1,Selective Fight 1| Room Room 3: Nikolay Lysenko| Round 1
+15,Vladimir Vanovskiy,China,1,Opp,5.0,Weijie Xu,7. Wavy pages,1,Selective Fight 1| Room Room 3: Nikolay Lysenko| Round 1
+16,Jerome Perez,Russia,1,Rep,7.0,German Karnup,4. Electrostatic copier,1,Selective Fight 1| Room Room 4: David Collomb| Round 1
+17,Jerome Perez,Pakistan,1,Opp,6.0,Ammar Ali Hakeem,4. Electrostatic copier,1,Selective Fight 1| Room Room 4: David Collomb| Round 1
+18,Nicolas Taberlet,Russia,1,Rep,6.0,German Karnup,4. Electrostatic copier,1,Selective Fight 1| Room Room 4: David Collomb| Round 1
+19,Nicolas Taberlet,Pakistan,1,Opp,6.0,Ammar Ali Hakeem,4. Electrostatic copier,1,Selective Fight 1| Room Room 4: David Collomb| Round 1
+20,Sonia Natale,Russia,1,Rep,8.0,German Karnup,4. Electrostatic copier,1,Selective Fight 1| Room Room 4: David Collomb| Round 1
+21,Sonia Natale,Pakistan,1,Opp,7.0,Ammar Ali Hakeem,4. Electrostatic copier,1,Selective Fight 1| Room Room 4: David Collomb| Round 1
+22,Åke Andersson,Russia,1,Rep,7.0,German Karnup,4. Electrostatic copier,1,Selective Fight 1| Room Room 4: David Collomb| Round 1
+23,Åke Andersson,Pakistan,1,Opp,5.0,Ammar Ali Hakeem,4. Electrostatic copier,1,Selective Fight 1| Room Room 4: David Collomb| Round 1
+24,Dmytro (Dima) Oliinychenko,France,1,Rep,5.0,Arthur Amorim,1. Cumulative cannon,2,Selective Fight 1| Room Room 2: Sebastian Fava| Round 2
+25,Dmytro (Dima) Oliinychenko,Ukraine,1,Opp,7.0,Hryhorii Ovcharenko,1. Cumulative cannon,2,Selective Fight 1| Room Room 2: Sebastian Fava| Round 2
+26,Georgy Fedorov,France,1,Rep,6.0,Arthur Amorim,1. Cumulative cannon,2,Selective Fight 1| Room Room 2: Sebastian Fava| Round 2
+27,Georgy Fedorov,Ukraine,1,Opp,9.0,Hryhorii Ovcharenko,1. Cumulative cannon,2,Selective Fight 1| Room Room 2: Sebastian Fava| Round 2
+28,Juergen Durst,France,1,Rep,6.0,Arthur Amorim,1. Cumulative cannon,2,Selective Fight 1| Room Room 2: Sebastian Fava| Round 2
+29,Juergen Durst,Ukraine,1,Opp,7.0,Hryhorii Ovcharenko,1. Cumulative cannon,2,Selective Fight 1| Room Room 2: Sebastian Fava| Round 2
+30,Stanislav Vinogradov,France,1,Rep,6.0,Arthur Amorim,1. Cumulative cannon,2,Selective Fight 1| Room Room 2: Sebastian Fava| Round 2
+31,Stanislav Vinogradov,Ukraine,1,Opp,7.0,Hryhorii Ovcharenko,1. Cumulative cannon,2,Selective Fight 1| Room Room 2: Sebastian Fava| Round 2
+32,Jerome Perez,Pakistan,1,Rep,6.0,Javaria GhafoorandMehreen Shabbir,14. Jumping bean,2,Selective Fight 1| Room Room 4: David Collomb| Round 2
+33,Jerome Perez,Russia,1,Opp,7.0,Ivan Polonik,14. Jumping bean,2,Selective Fight 1| Room Room 4: David Collomb| Round 2
+34,Nicolas Taberlet,Pakistan,1,Rep,6.0,Javaria GhafoorandMehreen Shabbir,14. Jumping bean,2,Selective Fight 1| Room Room 4: David Collomb| Round 2
+35,Nicolas Taberlet,Russia,1,Opp,8.0,Ivan Polonik,14. Jumping bean,2,Selective Fight 1| Room Room 4: David Collomb| Round 2
+36,Sonia Natale,Pakistan,1,Rep,6.0,Javaria GhafoorandMehreen Shabbir,14. Jumping bean,2,Selective Fight 1| Room Room 4: David Collomb| Round 2
+37,Sonia Natale,Russia,1,Opp,8.0,Ivan Polonik,14. Jumping bean,2,Selective Fight 1| Room Room 4: David Collomb| Round 2
+38,Åke Andersson,Pakistan,1,Rep,4.0,Javaria GhafoorandMehreen Shabbir,14. Jumping bean,2,Selective Fight 1| Room Room 4: David Collomb| Round 2
+39,Åke Andersson,Russia,1,Opp,8.0,Ivan Polonik,14. Jumping bean,2,Selective Fight 1| Room Room 4: David Collomb| Round 2
+40,Klim Sladkov,China,1,Rep,5.0,Zihan Huang,10. Hail,2,Selective Fight 1| Room Room 3: Nikolay Lysenko| Round 2
+41,Klim Sladkov,Slovenia,1,Opp,6.0,Luka Školč,10. Hail,2,Selective Fight 1| Room Room 3: Nikolay Lysenko| Round 2
+42,Luis Nunez,China,1,Rep,4.0,Zihan Huang,10. Hail,2,Selective Fight 1| Room Room 3: Nikolay Lysenko| Round 2
+43,Luis Nunez,Slovenia,1,Opp,7.0,Luka Školč,10. Hail,2,Selective Fight 1| Room Room 3: Nikolay Lysenko| Round 2
+44,Oleksiy Golubov,China,1,Rep,5.0,Zihan Huang,10. Hail,2,Selective Fight 1| Room Room 3: Nikolay Lysenko| Round 2
+45,Oleksiy Golubov,Slovenia,1,Opp,7.0,Luka Školč,10. Hail,2,Selective Fight 1| Room Room 3: Nikolay Lysenko| Round 2
+46,Vladimir Vanovskiy,China,1,Rep,5.0,Zihan Huang,10. Hail,2,Selective Fight 1| Room Room 3: Nikolay Lysenko| Round 2
+47,Vladimir Vanovskiy,Slovenia,1,Opp,7.0,Luka Školč,10. Hail,2,Selective Fight 1| Room Room 3: Nikolay Lysenko| Round 2
+48,Bohdan Bidenko,Germany,1,Rep,5.0,Dima Melnichenko,10. Hail,1,Selective Fight 1| Room Room 5: Anastasiia Vasylchenkova| Round 1
+49,Bohdan Bidenko,USA,1,Opp,7.0,Junzhe Bao,10. Hail,1,Selective Fight 1| Room Room 5: Anastasiia Vasylchenkova| Round 1
+50,MONCHAUX Romain,Germany,1,Rep,7.0,Dima Melnichenko,10. Hail,1,Selective Fight 1| Room Room 5: Anastasiia Vasylchenkova| Round 1
+51,MONCHAUX Romain,USA,1,Opp,7.0,Junzhe Bao,10. Hail,1,Selective Fight 1| Room Room 5: Anastasiia Vasylchenkova| Round 1
+52,Nina Samylova,Germany,1,Rep,7.0,Dima Melnichenko,10. Hail,1,Selective Fight 1| Room Room 5: Anastasiia Vasylchenkova| Round 1
+53,Nina Samylova,USA,1,Opp,7.0,Junzhe Bao,10. Hail,1,Selective Fight 1| Room Room 5: Anastasiia Vasylchenkova| Round 1
+54,Pierre - Louis,Germany,1,Rep,6.0,Dima Melnichenko,10. Hail,1,Selective Fight 1| Room Room 5: Anastasiia Vasylchenkova| Round 1
+55,Pierre - Louis,USA,1,Opp,6.0,Junzhe Bao,10. Hail,1,Selective Fight 1| Room Room 5: Anastasiia Vasylchenkova| Round 1
+56,Bohdan Bidenko,USA,1,Rep,7.0,Matheus Laureano Nunes Barbosa,14. Jumping bean,2,Selective Fight 1| Room Room 5: Anastasiia Vasylchenkova| Round 2
+57,Bohdan Bidenko,Germany,1,Opp,7.0,Aakash Bhat,14. Jumping bean,2,Selective Fight 1| Room Room 5: Anastasiia Vasylchenkova| Round 2
+58,MONCHAUX Romain,USA,1,Rep,8.0,Matheus Laureano Nunes Barbosa,14. Jumping bean,2,Selective Fight 1| Room Room 5: Anastasiia Vasylchenkova| Round 2
+59,MONCHAUX Romain,Germany,1,Opp,7.0,Aakash Bhat,14. Jumping bean,2,Selective Fight 1| Room Room 5: Anastasiia Vasylchenkova| Round 2
+60,Nina Samylova,USA,1,Rep,7.0,Matheus Laureano Nunes Barbosa,14. Jumping bean,2,Selective Fight 1| Room Room 5: Anastasiia Vasylchenkova| Round 2
+61,Nina Samylova,Germany,1,Opp,7.0,Aakash Bhat,14. Jumping bean,2,Selective Fight 1| Room Room 5: Anastasiia Vasylchenkova| Round 2
+62,Pierre - Louis,USA,1,Rep,6.0,Matheus Laureano Nunes Barbosa,14. Jumping bean,2,Selective Fight 1| Room Room 5: Anastasiia Vasylchenkova| Round 2
+63,Pierre - Louis,Germany,1,Opp,7.0,Aakash Bhat,14. Jumping bean,2,Selective Fight 1| Room Room 5: Anastasiia Vasylchenkova| Round 2
+64,Anastasiya Chervinskaya,USA,2,Rep,5.0,Qinyuan Zheng,6. Planetary clock,1,Selective Fight 2| Room Room 4: David Collomb| Round 1
+65,Anastasiya Chervinskaya,Slovenia,2,Opp,7.0,Luka Školč,6. Planetary clock,1,Selective Fight 2| Room Room 4: David Collomb| Round 1
+66,Sonia Natale,USA,2,Rep,7.0,Qinyuan Zheng,6. Planetary clock,1,Selective Fight 2| Room Room 4: David Collomb| Round 1
+67,Sonia Natale,Slovenia,2,Opp,7.0,Luka Školč,6. Planetary clock,1,Selective Fight 2| Room Room 4: David Collomb| Round 1
+68,Stanislav Vinogradov,USA,2,Rep,7.0,Qinyuan Zheng,6. Planetary clock,1,Selective Fight 2| Room Room 4: David Collomb| Round 1
+69,Stanislav Vinogradov,Slovenia,2,Opp,8.0,Luka Školč,6. Planetary clock,1,Selective Fight 2| Room Room 4: David Collomb| Round 1
+70,Åke Andersson,USA,2,Rep,3.0,Qinyuan Zheng,6. Planetary clock,1,Selective Fight 2| Room Room 4: David Collomb| Round 1
+71,Åke Andersson,Slovenia,2,Opp,6.0,Luka Školč,6. Planetary clock,1,Selective Fight 2| Room Room 4: David Collomb| Round 1
+72,Anastasiya Chervinskaya,Colombia,1,Rep,6.0,Laura Natalia Martínez Ramírez,2. Precious energy,1,Selective Fight 1| Room Room 1: Eugene Glushkov| Round 1
+73,Anastasiya Chervinskaya,India,1,Opp,4.0,Amey Yeole,2. Precious energy,1,Selective Fight 1| Room Room 1: Eugene Glushkov| Round 1
+74,Leandro Tessler,Colombia,1,Rep,7.0,Laura Natalia Martínez Ramírez,2. Precious energy,1,Selective Fight 1| Room Room 1: Eugene Glushkov| Round 1
+75,Leandro Tessler,India,1,Opp,5.0,Amey Yeole,2. Precious energy,1,Selective Fight 1| Room Room 1: Eugene Glushkov| Round 1
+76,Mark Bochkov,Colombia,1,Rep,5.0,Laura Natalia Martínez Ramírez,2. Precious energy,1,Selective Fight 1| Room Room 1: Eugene Glushkov| Round 1
+77,Mark Bochkov,India,1,Opp,6.0,Amey Yeole,2. Precious energy,1,Selective Fight 1| Room Room 1: Eugene Glushkov| Round 1
+78,Zakhar Maizelis,Colombia,1,Rep,5.0,Laura Natalia Martínez Ramírez,2. Precious energy,1,Selective Fight 1| Room Room 1: Eugene Glushkov| Round 1
+79,Zakhar Maizelis,India,1,Opp,7.0,Amey Yeole,2. Precious energy,1,Selective Fight 1| Room Room 1: Eugene Glushkov| Round 1
+80,Luis Nunez,India,2,Rep,7.0,ShivaSankar K.A.,12. Resonating glasses,1,Selective Fight 2| Room Room 2: Sebastian Fava| Round 1
+81,Luis Nunez,France,2,Opp,7.0,Bernard Gorzkowski,12. Resonating glasses,1,Selective Fight 2| Room Room 2: Sebastian Fava| Round 1
+82,Nina Samylova,India,2,Rep,6.0,ShivaSankar K.A.,12. Resonating glasses,1,Selective Fight 2| Room Room 2: Sebastian Fava| Round 1
+83,Nina Samylova,France,2,Opp,7.0,Bernard Gorzkowski,12. Resonating glasses,1,Selective Fight 2| Room Room 2: Sebastian Fava| Round 1
+84,Pierre - Louis,India,2,Rep,8.0,ShivaSankar K.A.,12. Resonating glasses,1,Selective Fight 2| Room Room 2: Sebastian Fava| Round 1
+85,Pierre - Louis,France,2,Opp,7.0,Bernard Gorzkowski,12. Resonating glasses,1,Selective Fight 2| Room Room 2: Sebastian Fava| Round 1
+86,Vladimir Vanovskiy,India,2,Rep,7.0,ShivaSankar K.A.,12. Resonating glasses,1,Selective Fight 2| Room Room 2: Sebastian Fava| Round 1
+87,Vladimir Vanovskiy,France,2,Opp,7.0,Bernard Gorzkowski,12. Resonating glasses,1,Selective Fight 2| Room Room 2: Sebastian Fava| Round 1
+88,Anastasiya Chervinskaya,Slovenia,2,Rep,5.0,Tijan Prijon,14. Jumping bean,2,Selective Fight 2| Room Room 4: David Collomb| Round 2
+89,Anastasiya Chervinskaya,USA,2,Opp,8.0,Matheus Laureano Nunes Barbosa,14. Jumping bean,2,Selective Fight 2| Room Room 4: David Collomb| Round 2
+90,Sonia Natale,Slovenia,2,Rep,5.0,Tijan Prijon,14. Jumping bean,2,Selective Fight 2| Room Room 4: David Collomb| Round 2
+91,Sonia Natale,USA,2,Opp,8.0,Matheus Laureano Nunes Barbosa,14. Jumping bean,2,Selective Fight 2| Room Room 4: David Collomb| Round 2
+92,Stanislav Vinogradov,Slovenia,2,Rep,7.0,Tijan Prijon,14. Jumping bean,2,Selective Fight 2| Room Room 4: David Collomb| Round 2
+93,Stanislav Vinogradov,USA,2,Opp,8.0,Matheus Laureano Nunes Barbosa,14. Jumping bean,2,Selective Fight 2| Room Room 4: David Collomb| Round 2
+94,Åke Andersson,Slovenia,2,Rep,7.0,Tijan Prijon,14. Jumping bean,2,Selective Fight 2| Room Room 4: David Collomb| Round 2
+95,Åke Andersson,USA,2,Opp,5.0,Matheus Laureano Nunes Barbosa,14. Jumping bean,2,Selective Fight 2| Room Room 4: David Collomb| Round 2
+96,Anastasiya Chervinskaya,India,1,Rep,4.0,ShivaSankar K.A.,5. Whirlpool in a bottle,2,Selective Fight 1| Room Room 1: Eugene Glushkov| Round 2
+97,Anastasiya Chervinskaya,Colombia,1,Opp,7.0,Steven Fernando Rico Aparicio,5. Whirlpool in a bottle,2,Selective Fight 1| Room Room 1: Eugene Glushkov| Round 2
+98,Leandro Tessler,India,1,Rep,4.0,ShivaSankar K.A.,5. Whirlpool in a bottle,2,Selective Fight 1| Room Room 1: Eugene Glushkov| Round 2
+99,Leandro Tessler,Colombia,1,Opp,7.0,Steven Fernando Rico Aparicio,5. Whirlpool in a bottle,2,Selective Fight 1| Room Room 1: Eugene Glushkov| Round 2
+100,Mark Bochkov,India,1,Rep,3.0,ShivaSankar K.A.,5. Whirlpool in a bottle,2,Selective Fight 1| Room Room 1: Eugene Glushkov| Round 2
+101,Mark Bochkov,Colombia,1,Opp,6.0,Steven Fernando Rico Aparicio,5. Whirlpool in a bottle,2,Selective Fight 1| Room Room 1: Eugene Glushkov| Round 2
+102,Zakhar Maizelis,India,1,Rep,5.0,ShivaSankar K.A.,5. Whirlpool in a bottle,2,Selective Fight 1| Room Room 1: Eugene Glushkov| Round 2
+103,Zakhar Maizelis,Colombia,1,Opp,8.0,Steven Fernando Rico Aparicio,5. Whirlpool in a bottle,2,Selective Fight 1| Room Room 1: Eugene Glushkov| Round 2
+104,Adrian Daerr,Russia,2,Rep,7.0,Artem Sukhov,12. Resonating glasses,1,Selective Fight 2| Room Room 3: Nikolay Lysenko| Round 1
+105,Adrian Daerr,Colombia,2,Opp,8.0,Juan Manuel Pacheco Arias,12. Resonating glasses,1,Selective Fight 2| Room Room 3: Nikolay Lysenko| Round 1
+106,Juergen Durst,Russia,2,Rep,6.0,Artem Sukhov,12. Resonating glasses,1,Selective Fight 2| Room Room 3: Nikolay Lysenko| Round 1
+107,Juergen Durst,Colombia,2,Opp,5.0,Juan Manuel Pacheco Arias,12. Resonating glasses,1,Selective Fight 2| Room Room 3: Nikolay Lysenko| Round 1
+108,Oleksiy Golubov,Russia,2,Rep,9.0,Artem Sukhov,12. Resonating glasses,1,Selective Fight 2| Room Room 3: Nikolay Lysenko| Round 1
+109,Oleksiy Golubov,Colombia,2,Opp,9.0,Juan Manuel Pacheco Arias,12. Resonating glasses,1,Selective Fight 2| Room Room 3: Nikolay Lysenko| Round 1
+110,Rafael Alves,Russia,2,Rep,6.0,Artem Sukhov,12. Resonating glasses,1,Selective Fight 2| Room Room 3: Nikolay Lysenko| Round 1
+111,Rafael Alves,Colombia,2,Opp,7.0,Juan Manuel Pacheco Arias,12. Resonating glasses,1,Selective Fight 2| Room Room 3: Nikolay Lysenko| Round 1
+112,Luis Nunez,France,2,Rep,8.0,Bernard Gorzkowski,17. Quantum gram,2,Selective Fight 2| Room Room 2: Sebastian Fava| Round 2
+113,Luis Nunez,India,2,Opp,8.0,ShivaSankar K.A.,17. Quantum gram,2,Selective Fight 2| Room Room 2: Sebastian Fava| Round 2
+114,Nina Samylova,France,2,Rep,8.0,Bernard Gorzkowski,17. Quantum gram,2,Selective Fight 2| Room Room 2: Sebastian Fava| Round 2
+115,Nina Samylova,India,2,Opp,7.0,ShivaSankar K.A.,17. Quantum gram,2,Selective Fight 2| Room Room 2: Sebastian Fava| Round 2
+116,Pierre - Louis,France,2,Rep,7.0,Bernard Gorzkowski,17. Quantum gram,2,Selective Fight 2| Room Room 2: Sebastian Fava| Round 2
+117,Pierre - Louis,India,2,Opp,7.0,ShivaSankar K.A.,17. Quantum gram,2,Selective Fight 2| Room Room 2: Sebastian Fava| Round 2
+118,Vladimir Vanovskiy,France,2,Rep,6.0,Bernard Gorzkowski,17. Quantum gram,2,Selective Fight 2| Room Room 2: Sebastian Fava| Round 2
+119,Vladimir Vanovskiy,India,2,Opp,8.0,ShivaSankar K.A.,17. Quantum gram,2,Selective Fight 2| Room Room 2: Sebastian Fava| Round 2
+120,Dmytro (Dima) Oliinychenko,Pakistan,2,Rep,4.0,Arsal Ahmed KhanandMehreen Shabbir,6. Planetary clock,1,Selective Fight 2| Room Room 1: Eugene Glushkov| Round 1
+121,Dmytro (Dima) Oliinychenko,Germany,2,Opp,7.0,Aakash Bhat,6. Planetary clock,1,Selective Fight 2| Room Room 1: Eugene Glushkov| Round 1
+122,Georgy Fedorov,Pakistan,2,Rep,6.0,Arsal Ahmed KhanandMehreen Shabbir,6. Planetary clock,1,Selective Fight 2| Room Room 1: Eugene Glushkov| Round 1
+123,Georgy Fedorov,Germany,2,Opp,8.0,Aakash Bhat,6. Planetary clock,1,Selective Fight 2| Room Room 1: Eugene Glushkov| Round 1
+124,Klim Sladkov,Pakistan,2,Rep,2.0,Arsal Ahmed KhanandMehreen Shabbir,6. Planetary clock,1,Selective Fight 2| Room Room 1: Eugene Glushkov| Round 1
+125,Klim Sladkov,Germany,2,Opp,7.0,Aakash Bhat,6. Planetary clock,1,Selective Fight 2| Room Room 1: Eugene Glushkov| Round 1
+126,Zakhar Maizelis,Pakistan,2,Rep,5.0,Arsal Ahmed KhanandMehreen Shabbir,6. Planetary clock,1,Selective Fight 2| Room Room 1: Eugene Glushkov| Round 1
+127,Zakhar Maizelis,Germany,2,Opp,7.0,Aakash Bhat,6. Planetary clock,1,Selective Fight 2| Room Room 1: Eugene Glushkov| Round 1
+128,Dmytro (Dima) Oliinychenko,Germany,2,Rep,6.0,Ivan Kokhanovskyi,9. Optical compass,2,Selective Fight 2| Room Room 1: Eugene Glushkov| Round 2
+129,Dmytro (Dima) Oliinychenko,Pakistan,2,Opp,6.0,Ammar Ali Hakeem,9. Optical compass,2,Selective Fight 2| Room Room 1: Eugene Glushkov| Round 2
+130,Georgy Fedorov,Germany,2,Rep,8.0,Ivan Kokhanovskyi,9. Optical compass,2,Selective Fight 2| Room Room 1: Eugene Glushkov| Round 2
+131,Georgy Fedorov,Pakistan,2,Opp,6.0,Ammar Ali Hakeem,9. Optical compass,2,Selective Fight 2| Room Room 1: Eugene Glushkov| Round 2
+132,Klim Sladkov,Germany,2,Rep,6.0,Ivan Kokhanovskyi,9. Optical compass,2,Selective Fight 2| Room Room 1: Eugene Glushkov| Round 2
+133,Klim Sladkov,Pakistan,2,Opp,5.0,Ammar Ali Hakeem,9. Optical compass,2,Selective Fight 2| Room Room 1: Eugene Glushkov| Round 2
+134,Zakhar Maizelis,Germany,2,Rep,7.0,Ivan Kokhanovskyi,9. Optical compass,2,Selective Fight 2| Room Room 1: Eugene Glushkov| Round 2
+135,Zakhar Maizelis,Pakistan,2,Opp,5.0,Ammar Ali Hakeem,9. Optical compass,2,Selective Fight 2| Room Room 1: Eugene Glushkov| Round 2
+136,Jerome Perez,Ukraine,2,Rep,7.0,Daryna Shcherban,13. Pickle night light,1,Selective Fight 2| Room Room 5: Anastasiia Vasylchenkova| Round 1
+137,Jerome Perez,China,2,Opp,5.0,Peida Wang,13. Pickle night light,1,Selective Fight 2| Room Room 5: Anastasiia Vasylchenkova| Round 1
+138,Julia Zotova,Ukraine,2,Rep,8.0,Daryna Shcherban,13. Pickle night light,1,Selective Fight 2| Room Room 5: Anastasiia Vasylchenkova| Round 1
+139,Julia Zotova,China,2,Opp,6.0,Peida Wang,13. Pickle night light,1,Selective Fight 2| Room Room 5: Anastasiia Vasylchenkova| Round 1
+140,Leandro Tessler,Ukraine,2,Rep,6.0,Daryna Shcherban,13. Pickle night light,1,Selective Fight 2| Room Room 5: Anastasiia Vasylchenkova| Round 1
+141,Leandro Tessler,China,2,Opp,4.0,Peida Wang,13. Pickle night light,1,Selective Fight 2| Room Room 5: Anastasiia Vasylchenkova| Round 1
+142,Mark Bochkov,Ukraine,2,Rep,7.0,Daryna Shcherban,13. Pickle night light,1,Selective Fight 2| Room Room 5: Anastasiia Vasylchenkova| Round 1
+143,Mark Bochkov,China,2,Opp,6.0,Peida Wang,13. Pickle night light,1,Selective Fight 2| Room Room 5: Anastasiia Vasylchenkova| Round 1
+144,Jerome Perez,China,2,Rep,5.0,Zhixin Xia,5. Whirlpool in a bottle,2,Selective Fight 2| Room Room 5: Anastasiia Vasylchenkova| Round 2
+145,Jerome Perez,Ukraine,2,Opp,7.0,Hryhorii Ovcharenko,5. Whirlpool in a bottle,2,Selective Fight 2| Room Room 5: Anastasiia Vasylchenkova| Round 2
+146,Julia Zotova,China,2,Rep,5.0,Zhixin Xia,5. Whirlpool in a bottle,2,Selective Fight 2| Room Room 5: Anastasiia Vasylchenkova| Round 2
+147,Julia Zotova,Ukraine,2,Opp,7.0,Hryhorii Ovcharenko,5. Whirlpool in a bottle,2,Selective Fight 2| Room Room 5: Anastasiia Vasylchenkova| Round 2
+148,Leandro Tessler,China,2,Rep,5.0,Zhixin Xia,5. Whirlpool in a bottle,2,Selective Fight 2| Room Room 5: Anastasiia Vasylchenkova| Round 2
+149,Leandro Tessler,Ukraine,2,Opp,6.0,Hryhorii Ovcharenko,5. Whirlpool in a bottle,2,Selective Fight 2| Room Room 5: Anastasiia Vasylchenkova| Round 2
+150,Mark Bochkov,China,2,Rep,4.0,Zhixin Xia,5. Whirlpool in a bottle,2,Selective Fight 2| Room Room 5: Anastasiia Vasylchenkova| Round 2
+151,Mark Bochkov,Ukraine,2,Opp,6.0,Hryhorii Ovcharenko,5. Whirlpool in a bottle,2,Selective Fight 2| Room Room 5: Anastasiia Vasylchenkova| Round 2
+152,Adrian Daerr,Colombia,2,Rep,4.0,Juan Manuel Pacheco Arias,1. Cumulative cannon,2,Selective Fight 2| Room Room 3: Nikolay Lysenko| Round 2
+153,Adrian Daerr,Russia,2,Opp,8.0,Ivan Polonik,1. Cumulative cannon,2,Selective Fight 2| Room Room 3: Nikolay Lysenko| Round 2
+154,Juergen Durst,Colombia,2,Rep,7.0,Juan Manuel Pacheco Arias,1. Cumulative cannon,2,Selective Fight 2| Room Room 3: Nikolay Lysenko| Round 2
+155,Juergen Durst,Russia,2,Opp,7.0,Ivan Polonik,1. Cumulative cannon,2,Selective Fight 2| Room Room 3: Nikolay Lysenko| Round 2
+156,Oleksiy Golubov,Colombia,2,Rep,7.0,Juan Manuel Pacheco Arias,1. Cumulative cannon,2,Selective Fight 2| Room Room 3: Nikolay Lysenko| Round 2
+157,Oleksiy Golubov,Russia,2,Opp,8.0,Ivan Polonik,1. Cumulative cannon,2,Selective Fight 2| Room Room 3: Nikolay Lysenko| Round 2
+158,Rafael Alves,Colombia,2,Rep,8.0,Juan Manuel Pacheco Arias,1. Cumulative cannon,2,Selective Fight 2| Room Room 3: Nikolay Lysenko| Round 2
+159,Rafael Alves,Russia,2,Opp,8.0,Ivan Polonik,1. Cumulative cannon,2,Selective Fight 2| Room Room 3: Nikolay Lysenko| Round 2
+160,Bohdan Bidenko,India,3,Rep,6.0,Aditya OjhaandAmogh Desai,13. Pickle night light,1,Selective Fight 3| Room Room 4: David Collomb| Round 1
+161,Bohdan Bidenko,USA,3,Opp,8.0,Ayush Sachdeva,13. Pickle night light,1,Selective Fight 3| Room Room 4: David Collomb| Round 1
+162,Juergen Durst,India,3,Rep,5.0,Aditya OjhaandAmogh Desai,13. Pickle night light,1,Selective Fight 3| Room Room 4: David Collomb| Round 1
+163,Juergen Durst,USA,3,Opp,6.0,Ayush Sachdeva,13. Pickle night light,1,Selective Fight 3| Room Room 4: David Collomb| Round 1
+164,Leonid Morgun,India,3,Rep,6.0,Aditya OjhaandAmogh Desai,13. Pickle night light,1,Selective Fight 3| Room Room 4: David Collomb| Round 1
+165,Leonid Morgun,USA,3,Opp,7.0,Ayush Sachdeva,13. Pickle night light,1,Selective Fight 3| Room Room 4: David Collomb| Round 1
+166,Nikola Poljak,India,3,Rep,6.0,Aditya OjhaandAmogh Desai,13. Pickle night light,1,Selective Fight 3| Room Room 4: David Collomb| Round 1
+167,Nikola Poljak,USA,3,Opp,8.0,Ayush Sachdeva,13. Pickle night light,1,Selective Fight 3| Room Room 4: David Collomb| Round 1
+168,Bohdan Bidenko,USA,3,Rep,7.0,Matheus Laureano Nunes Barbosa,1. Cumulative cannon,2,Selective Fight 3| Room Room 4: David Collomb| Round 2
+169,Bohdan Bidenko,India,3,Opp,7.0,ShivaSankar K.A.,1. Cumulative cannon,2,Selective Fight 3| Room Room 4: David Collomb| Round 2
+170,Juergen Durst,USA,3,Rep,8.0,Matheus Laureano Nunes Barbosa,1. Cumulative cannon,2,Selective Fight 3| Room Room 4: David Collomb| Round 2
+171,Juergen Durst,India,3,Opp,3.0,ShivaSankar K.A.,1. Cumulative cannon,2,Selective Fight 3| Room Room 4: David Collomb| Round 2
+172,Nikola Poljak,USA,3,Rep,6.0,Matheus Laureano Nunes Barbosa,1. Cumulative cannon,2,Selective Fight 3| Room Room 4: David Collomb| Round 2
+173,Nikola Poljak,India,3,Opp,7.0,ShivaSankar K.A.,1. Cumulative cannon,2,Selective Fight 3| Room Room 4: David Collomb| Round 2
+174,Evgenii Glushkov,Germany,3,Rep,7.0,Ivan Kokhanovskyi,1. Cumulative cannon,1,Selective Fight 3| Room Room 1: Eugene Glushkov| Round 1
+175,Evgenii Glushkov,Slovenia,3,Opp,8.0,Luka Školč,1. Cumulative cannon,1,Selective Fight 3| Room Room 1: Eugene Glushkov| Round 1
+176,Jerome Perez,Germany,3,Rep,5.0,Ivan Kokhanovskyi,1. Cumulative cannon,1,Selective Fight 3| Room Room 1: Eugene Glushkov| Round 1
+177,Jerome Perez,Slovenia,3,Opp,5.0,Luka Školč,1. Cumulative cannon,1,Selective Fight 3| Room Room 1: Eugene Glushkov| Round 1
+178,Lev A. Melnikovsky,Germany,3,Rep,7.0,Ivan Kokhanovskyi,1. Cumulative cannon,1,Selective Fight 3| Room Room 1: Eugene Glushkov| Round 1
+179,Lev A. Melnikovsky,Slovenia,3,Opp,6.0,Luka Školč,1. Cumulative cannon,1,Selective Fight 3| Room Room 1: Eugene Glushkov| Round 1
+180,Nicolas Taberlet,Germany,3,Rep,7.0,Ivan Kokhanovskyi,1. Cumulative cannon,1,Selective Fight 3| Room Room 1: Eugene Glushkov| Round 1
+181,Nicolas Taberlet,Slovenia,3,Opp,9.0,Luka Školč,1. Cumulative cannon,1,Selective Fight 3| Room Room 1: Eugene Glushkov| Round 1
+182,Dmytro (Dima) Oliinychenko,China,3,Rep,6.0,Weijie Xu,15. Wobbly vortex rings,1,Selective Fight 3| Room Room 2: Sebastian Fava| Round 1
+183,Dmytro (Dima) Oliinychenko,Colombia,3,Opp,7.0,Steven Fernando Rico Aparicio,15. Wobbly vortex rings,1,Selective Fight 3| Room Room 2: Sebastian Fava| Round 1
+184,Julia Zotova,China,3,Rep,4.0,Weijie Xu,15. Wobbly vortex rings,1,Selective Fight 3| Room Room 2: Sebastian Fava| Round 1
+185,Julia Zotova,Colombia,3,Opp,6.0,Steven Fernando Rico Aparicio,15. Wobbly vortex rings,1,Selective Fight 3| Room Room 2: Sebastian Fava| Round 1
+186,Pierre - Louis,China,3,Rep,7.0,Weijie Xu,15. Wobbly vortex rings,1,Selective Fight 3| Room Room 2: Sebastian Fava| Round 1
+187,Pierre - Louis,Colombia,3,Opp,7.0,Steven Fernando Rico Aparicio,15. Wobbly vortex rings,1,Selective Fight 3| Room Room 2: Sebastian Fava| Round 1
+188,Åke Andersson,China,3,Rep,6.0,Weijie Xu,15. Wobbly vortex rings,1,Selective Fight 3| Room Room 2: Sebastian Fava| Round 1
+189,Åke Andersson,Colombia,3,Opp,8.0,Steven Fernando Rico Aparicio,15. Wobbly vortex rings,1,Selective Fight 3| Room Room 2: Sebastian Fava| Round 1
+190,Dmytro (Dima) Oliinychenko,Colombia,3,Rep,6.0,Juan Manuel Pacheco Arias,14. Jumping bean,2,Selective Fight 3| Room Room 2: Sebastian Fava| Round 2
+191,Dmytro (Dima) Oliinychenko,China,3,Opp,7.0,Zhixin Xia,14. Jumping bean,2,Selective Fight 3| Room Room 2: Sebastian Fava| Round 2
+192,Julia Zotova,Colombia,3,Rep,8.0,Juan Manuel Pacheco Arias,14. Jumping bean,2,Selective Fight 3| Room Room 2: Sebastian Fava| Round 2
+193,Julia Zotova,China,3,Opp,8.0,Zhixin Xia,14. Jumping bean,2,Selective Fight 3| Room Room 2: Sebastian Fava| Round 2
+194,Pierre - Louis,Colombia,3,Rep,5.0,Juan Manuel Pacheco Arias,14. Jumping bean,2,Selective Fight 3| Room Room 2: Sebastian Fava| Round 2
+195,Pierre - Louis,China,3,Opp,5.0,Zhixin Xia,14. Jumping bean,2,Selective Fight 3| Room Room 2: Sebastian Fava| Round 2
+196,Åke Andersson,Colombia,3,Rep,6.0,Juan Manuel Pacheco Arias,14. Jumping bean,2,Selective Fight 3| Room Room 2: Sebastian Fava| Round 2
+197,Åke Andersson,China,3,Opp,6.0,Zhixin Xia,14. Jumping bean,2,Selective Fight 3| Room Room 2: Sebastian Fava| Round 2
+198,Evgenii Glushkov,Slovenia,3,Rep,5.0,Aleš Globočnik,13. Pickle night light,2,Selective Fight 3| Room Room 1: Eugene Glushkov| Round 2
+199,Evgenii Glushkov,Germany,3,Opp,7.0,Aakash Bhat,13. Pickle night light,2,Selective Fight 3| Room Room 1: Eugene Glushkov| Round 2
+200,Jerome Perez,Slovenia,3,Rep,4.0,Aleš Globočnik,13. Pickle night light,2,Selective Fight 3| Room Room 1: Eugene Glushkov| Round 2
+201,Jerome Perez,Germany,3,Opp,6.0,Aakash Bhat,13. Pickle night light,2,Selective Fight 3| Room Room 1: Eugene Glushkov| Round 2
+202,Lev A. Melnikovsky,Slovenia,3,Rep,5.0,Aleš Globočnik,13. Pickle night light,2,Selective Fight 3| Room Room 1: Eugene Glushkov| Round 2
+203,Lev A. Melnikovsky,Germany,3,Opp,7.0,Aakash Bhat,13. Pickle night light,2,Selective Fight 3| Room Room 1: Eugene Glushkov| Round 2
+204,Nicolas Taberlet,Slovenia,3,Rep,6.0,Aleš Globočnik,13. Pickle night light,2,Selective Fight 3| Room Room 1: Eugene Glushkov| Round 2
+205,Nicolas Taberlet,Germany,3,Opp,8.0,Aakash Bhat,13. Pickle night light,2,Selective Fight 3| Room Room 1: Eugene Glushkov| Round 2
+206,Luis Nunez,Pakistan,3,Rep,5.0,Mehreen Shabbir,9. Optical compass,1,Selective Fight 3| Room Room 3: Nikolay Lysenko| Round 1
+207,Luis Nunez,Ukraine,3,Opp,8.0,Oleh Ivashtenko,9. Optical compass,1,Selective Fight 3| Room Room 3: Nikolay Lysenko| Round 1
+208,Mark Bochkov,Pakistan,3,Rep,5.0,Mehreen Shabbir,9. Optical compass,1,Selective Fight 3| Room Room 3: Nikolay Lysenko| Round 1
+209,Mark Bochkov,Ukraine,3,Opp,7.0,Oleh Ivashtenko,9. Optical compass,1,Selective Fight 3| Room Room 3: Nikolay Lysenko| Round 1
+210,Michael Schmiedeberg,Pakistan,3,Rep,5.0,Mehreen Shabbir,9. Optical compass,1,Selective Fight 3| Room Room 3: Nikolay Lysenko| Round 1
+211,Michael Schmiedeberg,Ukraine,3,Opp,6.0,Oleh Ivashtenko,9. Optical compass,1,Selective Fight 3| Room Room 3: Nikolay Lysenko| Round 1
+212,Stanislav Vinogradov,Pakistan,3,Rep,6.0,Mehreen Shabbir,9. Optical compass,1,Selective Fight 3| Room Room 3: Nikolay Lysenko| Round 1
+213,Stanislav Vinogradov,Ukraine,3,Opp,8.0,Oleh Ivashtenko,9. Optical compass,1,Selective Fight 3| Room Room 3: Nikolay Lysenko| Round 1
+214,Luis Nunez,Ukraine,3,Rep,8.0,Polina Kofman,5. Whirlpool in a bottle,2,Selective Fight 3| Room Room 3: Nikolay Lysenko| Round 2
+215,Luis Nunez,Pakistan,3,Opp,6.0,Sabah Ud Din Ahmad,5. Whirlpool in a bottle,2,Selective Fight 3| Room Room 3: Nikolay Lysenko| Round 2
+216,Mark Bochkov,Ukraine,3,Rep,7.0,Polina Kofman,5. Whirlpool in a bottle,2,Selective Fight 3| Room Room 3: Nikolay Lysenko| Round 2
+217,Mark Bochkov,Pakistan,3,Opp,6.0,Sabah Ud Din Ahmad,5. Whirlpool in a bottle,2,Selective Fight 3| Room Room 3: Nikolay Lysenko| Round 2
+218,Michael Schmiedeberg,Ukraine,3,Rep,7.0,Polina Kofman,5. Whirlpool in a bottle,2,Selective Fight 3| Room Room 3: Nikolay Lysenko| Round 2
+219,Michael Schmiedeberg,Pakistan,3,Opp,7.0,Sabah Ud Din Ahmad,5. Whirlpool in a bottle,2,Selective Fight 3| Room Room 3: Nikolay Lysenko| Round 2
+220,Stanislav Vinogradov,Ukraine,3,Rep,7.0,Polina Kofman,5. Whirlpool in a bottle,2,Selective Fight 3| Room Room 3: Nikolay Lysenko| Round 2
+221,Stanislav Vinogradov,Pakistan,3,Opp,5.0,Sabah Ud Din Ahmad,5. Whirlpool in a bottle,2,Selective Fight 3| Room Room 3: Nikolay Lysenko| Round 2
+222,Aeysha Khalique,Russia,3,Rep,8.0,Ivan Polonik,14. Jumping bean,1,Selective Fight 3| Room Room 5: Anastasiia Vasylchenkova| Round 1
+223,Aeysha Khalique,France,3,Opp,6.0,Desirée Lim,14. Jumping bean,1,Selective Fight 3| Room Room 5: Anastasiia Vasylchenkova| Round 1
+224,Leandro Tessler,Russia,3,Rep,8.0,Ivan Polonik,14. Jumping bean,1,Selective Fight 3| Room Room 5: Anastasiia Vasylchenkova| Round 1
+225,Leandro Tessler,France,3,Opp,6.0,Desirée Lim,14. Jumping bean,1,Selective Fight 3| Room Room 5: Anastasiia Vasylchenkova| Round 1
+226,Sonia Natale,Russia,3,Rep,9.0,Ivan Polonik,14. Jumping bean,1,Selective Fight 3| Room Room 5: Anastasiia Vasylchenkova| Round 1
+227,Sonia Natale,France,3,Opp,7.0,Desirée Lim,14. Jumping bean,1,Selective Fight 3| Room Room 5: Anastasiia Vasylchenkova| Round 1
+228,Zakhar Maizelis,Russia,3,Rep,8.0,Ivan Polonik,14. Jumping bean,1,Selective Fight 3| Room Room 5: Anastasiia Vasylchenkova| Round 1
+229,Zakhar Maizelis,France,3,Opp,7.0,Desirée Lim,14. Jumping bean,1,Selective Fight 3| Room Room 5: Anastasiia Vasylchenkova| Round 1
+230,Aeysha Khalique,France,3,Rep,7.0,Bernard Gorzkowski,11. Flat fog,2,Selective Fight 3| Room Room 5: Anastasiia Vasylchenkova| Round 2
+231,Aeysha Khalique,Russia,3,Opp,7.0,Ivan Polonik,11. Flat fog,2,Selective Fight 3| Room Room 5: Anastasiia Vasylchenkova| Round 2
+232,Leandro Tessler,France,3,Rep,6.0,Bernard Gorzkowski,11. Flat fog,2,Selective Fight 3| Room Room 5: Anastasiia Vasylchenkova| Round 2
+233,Leandro Tessler,Russia,3,Opp,7.0,Ivan Polonik,11. Flat fog,2,Selective Fight 3| Room Room 5: Anastasiia Vasylchenkova| Round 2
+234,Sonia Natale,France,3,Rep,6.0,Bernard Gorzkowski,11. Flat fog,2,Selective Fight 3| Room Room 5: Anastasiia Vasylchenkova| Round 2
+235,Sonia Natale,Russia,3,Opp,6.0,Ivan Polonik,11. Flat fog,2,Selective Fight 3| Room Room 5: Anastasiia Vasylchenkova| Round 2
+236,Zakhar Maizelis,France,3,Rep,5.0,Bernard Gorzkowski,11. Flat fog,2,Selective Fight 3| Room Room 5: Anastasiia Vasylchenkova| Round 2
+237,Zakhar Maizelis,Russia,3,Opp,7.0,Ivan Polonik,11. Flat fog,2,Selective Fight 3| Room Room 5: Anastasiia Vasylchenkova| Round 2
+238,Leandro Tessler,Ukraine,6,Rep,6.0,Hryhorii Ovcharenko,12. Resonating glasses,1,IPT2020 Final| Round 1
+239,Leandro Tessler,USA,6,Opp,4.0,Carlos Márcio de Oliveira e Silva Filho,12. Resonating glasses,1,IPT2020 Final| Round 1
+240,Leandro Tessler,Russia,6,Mod,6.0,Ivan Polonik,12. Resonating glasses,1,IPT2020 Final| Round 1
+241,Pierre - Louis,Ukraine,6,Rep,8.0,Hryhorii Ovcharenko,12. Resonating glasses,1,IPT2020 Final| Round 1
+242,Pierre - Louis,USA,6,Opp,4.0,Carlos Márcio de Oliveira e Silva Filho,12. Resonating glasses,1,IPT2020 Final| Round 1
+243,Pierre - Louis,Russia,6,Mod,6.0,Ivan Polonik,12. Resonating glasses,1,IPT2020 Final| Round 1
+244,Sonia Natale,Ukraine,6,Rep,8.0,Hryhorii Ovcharenko,12. Resonating glasses,1,IPT2020 Final| Round 1
+245,Sonia Natale,USA,6,Opp,7.0,Carlos Márcio de Oliveira e Silva Filho,12. Resonating glasses,1,IPT2020 Final| Round 1
+246,Sonia Natale,Russia,6,Mod,7.0,Ivan Polonik,12. Resonating glasses,1,IPT2020 Final| Round 1
+247,Åke Andersson,Ukraine,6,Rep,8.0,Hryhorii Ovcharenko,12. Resonating glasses,1,IPT2020 Final| Round 1
+248,Åke Andersson,USA,6,Opp,4.0,Carlos Márcio de Oliveira e Silva Filho,12. Resonating glasses,1,IPT2020 Final| Round 1
+249,Åke Andersson,Russia,6,Mod,6.0,Ivan Polonik,12. Resonating glasses,1,IPT2020 Final| Round 1
+250,Leandro Tessler,USA,6,Rep,4.0,Junzhe Bao,10. Hail,2,IPT2020 Final| Round 2
+251,Leandro Tessler,Russia,6,Opp,5.0,Ivan Kalesnikau,10. Hail,2,IPT2020 Final| Round 2
+252,Leandro Tessler,Ukraine,6,Mod,6.0,Mykhailo Hrytsenko,10. Hail,2,IPT2020 Final| Round 2
+253,Pierre - Louis,USA,6,Rep,5.0,Junzhe Bao,10. Hail,2,IPT2020 Final| Round 2
+254,Pierre - Louis,Russia,6,Opp,6.0,Ivan Kalesnikau,10. Hail,2,IPT2020 Final| Round 2
+255,Pierre - Louis,Ukraine,6,Mod,4.0,Mykhailo Hrytsenko,10. Hail,2,IPT2020 Final| Round 2
+256,Sonia Natale,USA,6,Rep,7.0,Junzhe Bao,10. Hail,2,IPT2020 Final| Round 2
+257,Sonia Natale,Russia,6,Opp,8.0,Ivan Kalesnikau,10. Hail,2,IPT2020 Final| Round 2
+258,Sonia Natale,Ukraine,6,Mod,7.0,Mykhailo Hrytsenko,10. Hail,2,IPT2020 Final| Round 2
+259,Åke Andersson,USA,6,Rep,3.0,Junzhe Bao,10. Hail,2,IPT2020 Final| Round 2
+260,Åke Andersson,Russia,6,Opp,6.0,Ivan Kalesnikau,10. Hail,2,IPT2020 Final| Round 2
+261,Åke Andersson,Ukraine,6,Mod,3.0,Mykhailo Hrytsenko,10. Hail,2,IPT2020 Final| Round 2
+262,Leandro Tessler,Russia,6,Rep,10.0,Artem Sukhov,1. Cumulative cannon,3,IPT2020 Final| Round 3
+263,Leandro Tessler,Ukraine,6,Opp,6.0,Oleh Ivashtenko,1. Cumulative cannon,3,IPT2020 Final| Round 3
+264,Leandro Tessler,USA,6,Mod,4.0,Matheus Laureano Nunes Barbosa,1. Cumulative cannon,3,IPT2020 Final| Round 3
+265,Pierre - Louis,Russia,6,Rep,10.0,Artem Sukhov,1. Cumulative cannon,3,IPT2020 Final| Round 3
+266,Pierre - Louis,Ukraine,6,Opp,8.0,Oleh Ivashtenko,1. Cumulative cannon,3,IPT2020 Final| Round 3
+267,Pierre - Louis,USA,6,Mod,9.0,Matheus Laureano Nunes Barbosa,1. Cumulative cannon,3,IPT2020 Final| Round 3
+268,Sonia Natale,Russia,6,Rep,7.0,Artem Sukhov,1. Cumulative cannon,3,IPT2020 Final| Round 3
+269,Sonia Natale,Ukraine,6,Opp,7.0,Oleh Ivashtenko,1. Cumulative cannon,3,IPT2020 Final| Round 3
+270,Sonia Natale,USA,6,Mod,8.0,Matheus Laureano Nunes Barbosa,1. Cumulative cannon,3,IPT2020 Final| Round 3
+271,Åke Andersson,Russia,6,Rep,6.0,Artem Sukhov,1. Cumulative cannon,3,IPT2020 Final| Round 3
+272,Åke Andersson,Ukraine,6,Opp,6.0,Oleh Ivashtenko,1. Cumulative cannon,3,IPT2020 Final| Round 3
+273,Åke Andersson,USA,6,Mod,8.0,Matheus Laureano Nunes Barbosa,1. Cumulative cannon,3,IPT2020 Final| Round 3
