@@ -7,6 +7,8 @@ This repo contains most scores from previous IPTs. The csv files contains a row 
 - `country`: The country/team which received the score.
 - `fight`: The round of fights this score belongs to. 1-4 is selective fights, 5 is semis, 6 is grand final.
 - `role`: The participants role.
+- `score`: The score given.
+- `participant`: The name of the participant who received the score.
 - `problem`: The # and name of the problem presented.
 - `round`: The round # within the fight (usually up to three)
 - `fightName`: Plaintext title of the round
