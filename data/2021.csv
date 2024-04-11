@@ -1,492 +1,492 @@
-,juror,country,fight,role,score,participant,problem,round,fightName
-0,Aleksandr Svetlichnyi,France,1,Rep,5.0,Amazigh Ouzriat,3. Dirty racing,1,Selective Fight 1| Room PF Room 4| Round 1
-1,Aleksandr Svetlichnyi,Sweden,1,Opp,4.0,Hugo Spencer,3. Dirty racing,1,Selective Fight 1| Room PF Room 4| Round 1
-2,Pierre-Louis de Assis,France,1,Rep,6.0,Amazigh Ouzriat,3. Dirty racing,1,Selective Fight 1| Room PF Room 4| Round 1
-3,Pierre-Louis de Assis,Sweden,1,Opp,6.0,Hugo Spencer,3. Dirty racing,1,Selective Fight 1| Room PF Room 4| Round 1
-4,Riccardo Fabbricatore,France,1,Rep,7.0,Amazigh Ouzriat,3. Dirty racing,1,Selective Fight 1| Room PF Room 4| Round 1
-5,Riccardo Fabbricatore,Sweden,1,Opp,9.0,Hugo Spencer,3. Dirty racing,1,Selective Fight 1| Room PF Room 4| Round 1
-6,U. Pyrohova,France,1,Rep,5.0,Amazigh Ouzriat,3. Dirty racing,1,Selective Fight 1| Room PF Room 4| Round 1
-7,U. Pyrohova,Sweden,1,Opp,4.0,Hugo Spencer,3. Dirty racing,1,Selective Fight 1| Room PF Room 4| Round 1
-8,Jürgen Durst,United Kingdom,1,Rep,5.0,Yansheng Zhang,1. Nuclear mousetraps,1,Selective Fight 1| Room PF Room 6| Round 1
-9,Jürgen Durst,USA,1,Opp,5.0,Miguel Ceja,1. Nuclear mousetraps,1,Selective Fight 1| Room PF Room 6| Round 1
-10,Leonid Morgun,United Kingdom,1,Rep,7.0,Yansheng Zhang,1. Nuclear mousetraps,1,Selective Fight 1| Room PF Room 6| Round 1
-11,Leonid Morgun,USA,1,Opp,7.0,Miguel Ceja,1. Nuclear mousetraps,1,Selective Fight 1| Room PF Room 6| Round 1
-12,Sonia Natale,United Kingdom,1,Rep,7.0,Yansheng Zhang,1. Nuclear mousetraps,1,Selective Fight 1| Room PF Room 6| Round 1
-13,Sonia Natale,USA,1,Opp,7.0,Miguel Ceja,1. Nuclear mousetraps,1,Selective Fight 1| Room PF Room 6| Round 1
-14,Vitalii Lisovskyi,United Kingdom,1,Rep,7.0,Yansheng Zhang,1. Nuclear mousetraps,1,Selective Fight 1| Room PF Room 6| Round 1
-15,Vitalii Lisovskyi,USA,1,Opp,7.0,Miguel Ceja,1. Nuclear mousetraps,1,Selective Fight 1| Room PF Room 6| Round 1
-16,Alexander Nozik,Pakistan,1,Rep,6.0,Muhammad Anas Nasser,3. Dirty racing,1,Selective Fight 1| Room PF Room 5| Round 1
-17,Alexander Nozik,Germany,1,Opp,9.0,Ivan Kokhanovskyi,3. Dirty racing,1,Selective Fight 1| Room PF Room 5| Round 1
-18,Amaury Barral,Pakistan,1,Rep,3.0,Muhammad Anas Nasser,3. Dirty racing,1,Selective Fight 1| Room PF Room 5| Round 1
-19,Amaury Barral,Germany,1,Opp,7.0,Ivan Kokhanovskyi,3. Dirty racing,1,Selective Fight 1| Room PF Room 5| Round 1
-20,Leandro Tessler,Pakistan,1,Rep,5.0,Muhammad Anas Nasser,3. Dirty racing,1,Selective Fight 1| Room PF Room 5| Round 1
-21,Leandro Tessler,Germany,1,Opp,7.0,Ivan Kokhanovskyi,3. Dirty racing,1,Selective Fight 1| Room PF Room 5| Round 1
-22,Stanislav Vinogradov,Pakistan,1,Rep,3.0,Muhammad Anas Nasser,3. Dirty racing,1,Selective Fight 1| Room PF Room 5| Round 1
-23,Stanislav Vinogradov,Germany,1,Opp,7.0,Ivan Kokhanovskyi,3. Dirty racing,1,Selective Fight 1| Room PF Room 5| Round 1
-24,David Collomb,Colombia,1,Rep,6.0,Christian David Forero Pulido,8. Heavy parachute,2,Selective Fight 1| Room PF Room 3| Round 2
-25,David Collomb,Ukraine,1,Opp,7.0,Oleh Ivashtenko,8. Heavy parachute,2,Selective Fight 1| Room PF Room 3| Round 2
-26,Dmytro Oliinychenko,Colombia,1,Rep,5.0,Christian David Forero Pulido,8. Heavy parachute,2,Selective Fight 1| Room PF Room 3| Round 2
-27,Dmytro Oliinychenko,Ukraine,1,Opp,6.0,Oleh Ivashtenko,8. Heavy parachute,2,Selective Fight 1| Room PF Room 3| Round 2
-28,Georgy Fedorov,Colombia,1,Rep,7.0,Christian David Forero Pulido,8. Heavy parachute,2,Selective Fight 1| Room PF Room 3| Round 2
-29,Georgy Fedorov,Ukraine,1,Opp,7.0,Oleh Ivashtenko,8. Heavy parachute,2,Selective Fight 1| Room PF Room 3| Round 2
-30,Severian Gvasaliya,Colombia,1,Rep,6.0,Christian David Forero Pulido,8. Heavy parachute,2,Selective Fight 1| Room PF Room 3| Round 2
-31,Severian Gvasaliya,Ukraine,1,Opp,7.0,Oleh Ivashtenko,8. Heavy parachute,2,Selective Fight 1| Room PF Room 3| Round 2
-32,David Collomb,Ukraine,1,Rep,7.0,Oleh Ivashtenko,12. Metallic forest,1,Selective Fight 1| Room PF Room 3| Round 1
-33,David Collomb,Colombia,1,Opp,7.0,Luis Carlos Mantilla Calderon,12. Metallic forest,1,Selective Fight 1| Room PF Room 3| Round 1
-34,Dmytro Oliinychenko,Ukraine,1,Rep,5.0,Oleh Ivashtenko,12. Metallic forest,1,Selective Fight 1| Room PF Room 3| Round 1
-35,Dmytro Oliinychenko,Colombia,1,Opp,7.0,Luis Carlos Mantilla Calderon,12. Metallic forest,1,Selective Fight 1| Room PF Room 3| Round 1
-36,Georgy Fedorov,Ukraine,1,Rep,6.0,Oleh Ivashtenko,12. Metallic forest,1,Selective Fight 1| Room PF Room 3| Round 1
-37,Georgy Fedorov,Colombia,1,Opp,8.0,Luis Carlos Mantilla Calderon,12. Metallic forest,1,Selective Fight 1| Room PF Room 3| Round 1
-38,Severian Gvasaliya,Ukraine,1,Rep,8.0,Oleh Ivashtenko,12. Metallic forest,1,Selective Fight 1| Room PF Room 3| Round 1
-39,Severian Gvasaliya,Colombia,1,Opp,6.0,Luis Carlos Mantilla Calderon,12. Metallic forest,1,Selective Fight 1| Room PF Room 3| Round 1
-40,Duy Nguyen Van,Slovenia,1,Rep,8.0,Maj Mejak,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1
-41,Duy Nguyen Van,Switzerland,1,Opp,7.0,Bosch Maximilian,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1
-42,Nikolay Lysenko,Slovenia,1,Rep,5.0,Maj Mejak,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1
-43,Nikolay Lysenko,Switzerland,1,Opp,4.0,Bosch Maximilian,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1
-44,Platon Dmitriyev,Slovenia,1,Rep,4.0,Maj Mejak,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1
-45,Platon Dmitriyev,Switzerland,1,Opp,4.0,Bosch Maximilian,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1
-46,Tarek Ben,Slovenia,1,Rep,8.0,Maj Mejak,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1
-47,Tarek Ben,Switzerland,1,Opp,7.0,Bosch Maximilian,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1
-48,Zakhar Maizelis,Slovenia,1,Rep,6.0,Maj Mejak,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1
-49,Zakhar Maizelis,Switzerland,1,Opp,5.0,Bosch Maximilian,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1
-50,Duy Nguyen Van,Switzerland,1,Rep,7.0,Jaeger Alexander,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2
-51,Duy Nguyen Van,Slovenia,1,Opp,6.0,Aleš Globočnik,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2
-52,Nikolay Lysenko,Switzerland,1,Rep,6.0,Jaeger Alexander,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2
-53,Nikolay Lysenko,Slovenia,1,Opp,5.0,Aleš Globočnik,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2
-54,Platon Dmitriyev,Switzerland,1,Rep,7.0,Jaeger Alexander,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2
-55,Platon Dmitriyev,Slovenia,1,Opp,6.0,Aleš Globočnik,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2
-56,Tarek Ben,Switzerland,1,Rep,6.0,Jaeger Alexander,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2
-57,Tarek Ben,Slovenia,1,Opp,7.0,Aleš Globočnik,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2
-58,Zakhar Maizelis,Switzerland,1,Rep,6.0,Jaeger Alexander,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2
-59,Zakhar Maizelis,Slovenia,1,Opp,6.0,Aleš Globočnik,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2
-60,Bohdan Bidenko,Russia,1,Rep,6.0,Ivan Kalesnikau,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1
-61,Bohdan Bidenko,Brazil,1,Opp,6.0,Felipe Mazzi,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1
-62,Evgenii Glushkov,Russia,1,Rep,8.0,Ivan Kalesnikau,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1
-63,Evgenii Glushkov,Brazil,1,Opp,6.0,Felipe Mazzi,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1
-64,Geraldine Feraud,Russia,1,Rep,8.0,Ivan Kalesnikau,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1
-65,Geraldine Feraud,Brazil,1,Opp,7.0,Felipe Mazzi,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1
-66,Ivan Rojkov,Russia,1,Rep,7.0,Ivan Kalesnikau,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1
-67,Ivan Rojkov,Brazil,1,Opp,6.0,Felipe Mazzi,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1
-68,Åke Andersson,Russia,1,Rep,8.0,Ivan Kalesnikau,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1
-69,Åke Andersson,Brazil,1,Opp,5.0,Felipe Mazzi,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1
-70,Jürgen Durst,USA,1,Rep,6.0,Shantanu Kadam,14. Ice clock,2,Selective Fight 1| Room PF Room 6| Round 2
-71,Jürgen Durst,United Kingdom,1,Opp,7.0,Khoi Le Nguyen Nguyen,14. Ice clock,2,Selective Fight 1| Room PF Room 6| Round 2
-72,Leonid Morgun,USA,1,Rep,5.0,Shantanu Kadam,14. Ice clock,2,Selective Fight 1| Room PF Room 6| Round 2
-73,Leonid Morgun,United Kingdom,1,Opp,6.0,Khoi Le Nguyen Nguyen,14. Ice clock,2,Selective Fight 1| Room PF Room 6| Round 2
-74,Sonia Natale,USA,1,Rep,8.0,Shantanu Kadam,14. Ice clock,2,Selective Fight 1| Room PF Room 6| Round 2
-75,Sonia Natale,United Kingdom,1,Opp,8.0,Khoi Le Nguyen Nguyen,14. Ice clock,2,Selective Fight 1| Room PF Room 6| Round 2
-76,Vitalii Lisovskyi,USA,1,Rep,7.0,Shantanu Kadam,14. Ice clock,2,Selective Fight 1| Room PF Room 6| Round 2
-77,Vitalii Lisovskyi,United Kingdom,1,Opp,8.0,Khoi Le Nguyen Nguyen,14. Ice clock,2,Selective Fight 1| Room PF Room 6| Round 2
-78,Aleksandr Svetlichnyi,Sweden,1,Rep,5.0,Rebecka Mårtensson,16. Graphite lamp,2,Selective Fight 1| Room PF Room 4| Round 2
-79,Aleksandr Svetlichnyi,France,1,Opp,4.0,Julien Herbelot,16. Graphite lamp,2,Selective Fight 1| Room PF Room 4| Round 2
-80,Pierre-Louis de Assis,Sweden,1,Rep,7.0,Rebecka Mårtensson,16. Graphite lamp,2,Selective Fight 1| Room PF Room 4| Round 2
-81,Pierre-Louis de Assis,France,1,Opp,7.0,Julien Herbelot,16. Graphite lamp,2,Selective Fight 1| Room PF Room 4| Round 2
-82,Riccardo Fabbricatore,Sweden,1,Rep,5.0,Rebecka Mårtensson,16. Graphite lamp,2,Selective Fight 1| Room PF Room 4| Round 2
-83,Riccardo Fabbricatore,France,1,Opp,6.0,Julien Herbelot,16. Graphite lamp,2,Selective Fight 1| Room PF Room 4| Round 2
-84,U. Pyrohova,Sweden,1,Rep,7.0,Rebecka Mårtensson,16. Graphite lamp,2,Selective Fight 1| Room PF Room 4| Round 2
-85,U. Pyrohova,France,1,Opp,5.0,Julien Herbelot,16. Graphite lamp,2,Selective Fight 1| Room PF Room 4| Round 2
-86,Bohdan Bidenko,Brazil,1,Rep,8.0,Felipe Mazzi,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2
-87,Bohdan Bidenko,Russia,1,Opp,9.0,Ivan Polonik,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2
-88,Evgenii Glushkov,Brazil,1,Rep,7.0,Felipe Mazzi,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2
-89,Evgenii Glushkov,Russia,1,Opp,7.0,Ivan Polonik,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2
-90,Geraldine Feraud,Brazil,1,Rep,7.0,Felipe Mazzi,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2
-91,Geraldine Feraud,Russia,1,Opp,8.0,Ivan Polonik,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2
-92,Ivan Rojkov,Brazil,1,Rep,7.0,Felipe Mazzi,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2
-93,Ivan Rojkov,Russia,1,Opp,5.0,Ivan Polonik,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2
-94,Åke Andersson,Brazil,1,Rep,5.0,Felipe Mazzi,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2
-95,Åke Andersson,Russia,1,Opp,7.0,Ivan Polonik,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2
-96,Alexander Nozik,Germany,1,Rep,9.0,Dominik Döllerer,14. Ice clock,2,Selective Fight 1| Room PF Room 5| Round 2
-97,Alexander Nozik,Pakistan,1,Opp,6.0,Hamna Aslam,14. Ice clock,2,Selective Fight 1| Room PF Room 5| Round 2
-98,Amaury Barral,Germany,1,Rep,4.0,Dominik Döllerer,14. Ice clock,2,Selective Fight 1| Room PF Room 5| Round 2
-99,Amaury Barral,Pakistan,1,Opp,6.0,Hamna Aslam,14. Ice clock,2,Selective Fight 1| Room PF Room 5| Round 2
-100,Leandro Tessler,Germany,1,Rep,7.0,Dominik Döllerer,14. Ice clock,2,Selective Fight 1| Room PF Room 5| Round 2
-101,Leandro Tessler,Pakistan,1,Opp,6.0,Hamna Aslam,14. Ice clock,2,Selective Fight 1| Room PF Room 5| Round 2
-102,Stanislav Vinogradov,Germany,1,Rep,7.0,Dominik Döllerer,14. Ice clock,2,Selective Fight 1| Room PF Room 5| Round 2
-103,Stanislav Vinogradov,Pakistan,1,Opp,7.0,Hamna Aslam,14. Ice clock,2,Selective Fight 1| Room PF Room 5| Round 2
-104,Aakash Bhat,Switzerland,2,Rep,6.0,Bosch Maximilian,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 3| Round 1
-105,Aakash Bhat,United Kingdom,2,Opp,7.0,Yansheng Zhang,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 3| Round 1
-106,Dmytro Oliinychenko,Switzerland,2,Rep,6.0,Bosch Maximilian,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 3| Round 1
-107,Dmytro Oliinychenko,United Kingdom,2,Opp,7.0,Yansheng Zhang,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 3| Round 1
-108,Georgy Fedorov,Switzerland,2,Rep,7.0,Bosch Maximilian,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 3| Round 1
-109,Georgy Fedorov,United Kingdom,2,Opp,8.0,Yansheng Zhang,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 3| Round 1
-110,Leandro Tessler,Switzerland,2,Rep,7.0,Bosch Maximilian,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 3| Round 1
-111,Leandro Tessler,United Kingdom,2,Opp,7.0,Yansheng Zhang,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 3| Round 1
-112,Aakash Bhat,United Kingdom,2,Rep,2.0,Aneesh Agarwal,5. Distant thunder,2,Selective Fight 2| Room PF Room 3| Round 2
-113,Aakash Bhat,Switzerland,2,Opp,5.0,Brockmeyer Frederike,5. Distant thunder,2,Selective Fight 2| Room PF Room 3| Round 2
-114,Dmytro Oliinychenko,United Kingdom,2,Rep,5.0,Aneesh Agarwal,5. Distant thunder,2,Selective Fight 2| Room PF Room 3| Round 2
-115,Dmytro Oliinychenko,Switzerland,2,Opp,8.0,Brockmeyer Frederike,5. Distant thunder,2,Selective Fight 2| Room PF Room 3| Round 2
-116,Georgy Fedorov,United Kingdom,2,Rep,6.0,Aneesh Agarwal,5. Distant thunder,2,Selective Fight 2| Room PF Room 3| Round 2
-117,Georgy Fedorov,Switzerland,2,Opp,7.0,Brockmeyer Frederike,5. Distant thunder,2,Selective Fight 2| Room PF Room 3| Round 2
-118,Leandro Tessler,United Kingdom,2,Rep,5.0,Aneesh Agarwal,5. Distant thunder,2,Selective Fight 2| Room PF Room 3| Round 2
-119,Leandro Tessler,Switzerland,2,Opp,6.0,Brockmeyer Frederike,5. Distant thunder,2,Selective Fight 2| Room PF Room 3| Round 2
-120,Aleksandr Svetlichnyi,Pakistan,2,Rep,3.0,Qasim Muhammad,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 5| Round 1
-121,Aleksandr Svetlichnyi,Slovenia,2,Opp,6.0,Vitja Beltram,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 5| Round 1
-122,Duy Nguyen Van,Pakistan,2,Rep,6.0,Qasim Muhammad,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 5| Round 1
-123,Duy Nguyen Van,Slovenia,2,Opp,6.0,Vitja Beltram,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 5| Round 1
-124,Ivan Rojkov,Pakistan,2,Rep,6.0,Qasim Muhammad,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 5| Round 1
-125,Ivan Rojkov,Slovenia,2,Opp,8.0,Vitja Beltram,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 5| Round 1
-126,Pierre-Louis de Assis,Pakistan,2,Rep,5.0,Qasim Muhammad,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 5| Round 1
-127,Pierre-Louis de Assis,Slovenia,2,Opp,6.0,Vitja Beltram,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 5| Round 1
-128,Aleksandr Svetlichnyi,Slovenia,2,Rep,5.0,Maks Repše,8. Heavy parachute,2,Selective Fight 2| Room PF Room 5| Round 2
-129,Aleksandr Svetlichnyi,Pakistan,2,Opp,6.0,Sabah Ud Din Ahmad,8. Heavy parachute,2,Selective Fight 2| Room PF Room 5| Round 2
-130,Duy Nguyen Van,Slovenia,2,Rep,7.0,Maks Repše,8. Heavy parachute,2,Selective Fight 2| Room PF Room 5| Round 2
-131,Duy Nguyen Van,Pakistan,2,Opp,6.0,Sabah Ud Din Ahmad,8. Heavy parachute,2,Selective Fight 2| Room PF Room 5| Round 2
-132,Ivan Rojkov,Slovenia,2,Rep,4.0,Maks Repše,8. Heavy parachute,2,Selective Fight 2| Room PF Room 5| Round 2
-133,Ivan Rojkov,Pakistan,2,Opp,5.0,Sabah Ud Din Ahmad,8. Heavy parachute,2,Selective Fight 2| Room PF Room 5| Round 2
-134,Pierre-Louis de Assis,Slovenia,2,Rep,5.0,Maks Repše,8. Heavy parachute,2,Selective Fight 2| Room PF Room 5| Round 2
-135,Pierre-Louis de Assis,Pakistan,2,Opp,6.0,Sabah Ud Din Ahmad,8. Heavy parachute,2,Selective Fight 2| Room PF Room 5| Round 2
-136,Aeysha Khalique,Sweden,2,Rep,6.0,Rebecka Mårtensson,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 6| Round 1
-137,Aeysha Khalique,Ukraine,2,Opp,9.0,Oleh Ivashtenko,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 6| Round 1
-138,Claire Marrache,Sweden,2,Rep,5.0,Rebecka Mårtensson,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 6| Round 1
-139,Claire Marrache,Ukraine,2,Opp,5.0,Oleh Ivashtenko,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 6| Round 1
-140,David Collomb,Sweden,2,Rep,6.0,Rebecka Mårtensson,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 6| Round 1
-141,David Collomb,Ukraine,2,Opp,8.0,Oleh Ivashtenko,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 6| Round 1
-142,Nikolay Lysenko,Sweden,2,Rep,7.0,Rebecka Mårtensson,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 6| Round 1
-143,Nikolay Lysenko,Ukraine,2,Opp,7.0,Oleh Ivashtenko,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 6| Round 1
-144,Bohdan Bidenko,Colombia,2,Rep,6.0,Jose Betancourt,13. Branching light,1,Selective Fight 2| Room PF Room 2| Round 1
-145,Bohdan Bidenko,Germany,2,Opp,7.0,Ivan Kokhanovskyi,13. Branching light,1,Selective Fight 2| Room PF Room 2| Round 1
-146,Stanislav Vinogradov,Colombia,2,Rep,7.0,Jose Betancourt,13. Branching light,1,Selective Fight 2| Room PF Room 2| Round 1
-147,Stanislav Vinogradov,Germany,2,Opp,8.0,Ivan Kokhanovskyi,13. Branching light,1,Selective Fight 2| Room PF Room 2| Round 1
-148,Vitalii Lisovskyi,Colombia,2,Rep,7.0,Jose Betancourt,13. Branching light,1,Selective Fight 2| Room PF Room 2| Round 1
-149,Vitalii Lisovskyi,Germany,2,Opp,8.0,Ivan Kokhanovskyi,13. Branching light,1,Selective Fight 2| Room PF Room 2| Round 1
-150,Åke Andersson,Colombia,2,Rep,4.0,Jose Betancourt,13. Branching light,1,Selective Fight 2| Room PF Room 2| Round 1
-151,Åke Andersson,Germany,2,Opp,5.0,Ivan Kokhanovskyi,13. Branching light,1,Selective Fight 2| Room PF Room 2| Round 1
-152,Amaury Barral,USA,2,Rep,5.0,Miguel Ceja,17. Quantum-droplet analogy,1,Selective Fight 2| Room PF Room 4| Round 1
-153,Amaury Barral,Russia,2,Opp,9.0,Ivan Polonik,17. Quantum-droplet analogy,1,Selective Fight 2| Room PF Room 4| Round 1
-154,Riccardo Fabbricatore,USA,2,Rep,6.0,Miguel Ceja,17. Quantum-droplet analogy,1,Selective Fight 2| Room PF Room 4| Round 1
-155,Riccardo Fabbricatore,Russia,2,Opp,8.0,Ivan Polonik,17. Quantum-droplet analogy,1,Selective Fight 2| Room PF Room 4| Round 1
-156,U. Pyrohova,USA,2,Rep,4.0,Miguel Ceja,17. Quantum-droplet analogy,1,Selective Fight 2| Room PF Room 4| Round 1
-157,U. Pyrohova,Russia,2,Opp,7.0,Ivan Polonik,17. Quantum-droplet analogy,1,Selective Fight 2| Room PF Room 4| Round 1
-158,Zakhar Maizelis,USA,2,Rep,4.0,Miguel Ceja,17. Quantum-droplet analogy,1,Selective Fight 2| Room PF Room 4| Round 1
-159,Zakhar Maizelis,Russia,2,Opp,7.0,Ivan Polonik,17. Quantum-droplet analogy,1,Selective Fight 2| Room PF Room 4| Round 1
-160,Aleksei Lukianchuk,France,2,Rep,6.0,Emile Pangburn,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1
-161,Aleksei Lukianchuk,Brazil,2,Opp,7.0,Leonardo Falabella,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1
-162,Alexander Nozik,France,2,Rep,8.0,Emile Pangburn,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1
-163,Alexander Nozik,Brazil,2,Opp,6.0,Leonardo Falabella,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1
-164,Jürgen Durst,France,2,Rep,7.0,Emile Pangburn,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1
-165,Jürgen Durst,Brazil,2,Opp,7.0,Leonardo Falabella,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1
-166,Severian Gvasaliya,France,2,Rep,7.0,Emile Pangburn,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1
-167,Severian Gvasaliya,Brazil,2,Opp,8.0,Leonardo Falabella,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1
-168,Vladimir Vanovsky,France,2,Rep,7.0,Emile Pangburn,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1
-169,Vladimir Vanovsky,Brazil,2,Opp,8.0,Leonardo Falabella,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1
-170,Aleksei Lukianchuk,Brazil,2,Rep,4.0,Anderson Vulto,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2
-171,Aleksei Lukianchuk,France,2,Opp,8.0,Emile Pangburn,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2
-172,Alexander Nozik,Brazil,2,Rep,4.0,Anderson Vulto,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2
-173,Alexander Nozik,France,2,Opp,7.0,Emile Pangburn,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2
-174,Jürgen Durst,Brazil,2,Rep,7.0,Anderson Vulto,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2
-175,Jürgen Durst,France,2,Opp,6.0,Emile Pangburn,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2
-176,Severian Gvasaliya,Brazil,2,Rep,7.0,Anderson Vulto,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2
-177,Severian Gvasaliya,France,2,Opp,8.0,Emile Pangburn,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2
-178,Vladimir Vanovsky,Brazil,2,Rep,7.0,Anderson Vulto,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2
-179,Vladimir Vanovsky,France,2,Opp,7.0,Emile Pangburn,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2
-180,Amaury Barral,Russia,2,Rep,4.0,Artem Sukhov,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 4| Round 2
-181,Amaury Barral,USA,2,Opp,6.0,Bingxu Meng,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 4| Round 2
-182,Riccardo Fabbricatore,Russia,2,Rep,8.0,Artem Sukhov,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 4| Round 2
-183,Riccardo Fabbricatore,USA,2,Opp,9.0,Bingxu Meng,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 4| Round 2
-184,U. Pyrohova,Russia,2,Rep,8.0,Artem Sukhov,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 4| Round 2
-185,U. Pyrohova,USA,2,Opp,7.0,Bingxu Meng,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 4| Round 2
-186,Zakhar Maizelis,Russia,2,Rep,10.0,Artem Sukhov,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 4| Round 2
-187,Zakhar Maizelis,USA,2,Opp,7.0,Bingxu Meng,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 4| Round 2
-188,Bohdan Bidenko,Germany,2,Rep,7.0,Ivan Kokhanovskyi,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 2| Round 2
-189,Bohdan Bidenko,Colombia,2,Opp,6.0,Christian David Forero Pulido,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 2| Round 2
-190,Stanislav Vinogradov,Germany,2,Rep,8.0,Ivan Kokhanovskyi,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 2| Round 2
-191,Stanislav Vinogradov,Colombia,2,Opp,7.0,Christian David Forero Pulido,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 2| Round 2
-192,Vitalii Lisovskyi,Germany,2,Rep,8.0,Ivan Kokhanovskyi,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 2| Round 2
-193,Vitalii Lisovskyi,Colombia,2,Opp,6.0,Christian David Forero Pulido,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 2| Round 2
-194,Åke Andersson,Germany,2,Rep,7.0,Ivan Kokhanovskyi,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 2| Round 2
-195,Åke Andersson,Colombia,2,Opp,6.0,Christian David Forero Pulido,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 2| Round 2
-196,Federico Serrano,Ukraine,3,Rep,5.0,Semen Kononenko,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 1| Round 1
-197,Federico Serrano,Brazil,3,Opp,8.0,Felipe Mazzi,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 1| Round 1
-198,Ivan Rojkov,Ukraine,3,Rep,7.0,Semen Kononenko,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 1| Round 1
-199,Ivan Rojkov,Brazil,3,Opp,7.0,Felipe Mazzi,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 1| Round 1
-200,Nikolay Lysenko,Ukraine,3,Rep,7.0,Semen Kononenko,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 1| Round 1
-201,Nikolay Lysenko,Brazil,3,Opp,8.0,Felipe Mazzi,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 1| Round 1
-202,Stanislav Vinogradov,Ukraine,3,Rep,8.0,Semen Kononenko,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 1| Round 1
-203,Stanislav Vinogradov,Brazil,3,Opp,9.0,Felipe Mazzi,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 1| Round 1
-204,Aakash Bhat,Slovenia,3,Rep,7.0,Vitja Beltram,14. Ice clock,1,Selective Fight 3| Room PF Room 2| Round 1
-205,Aakash Bhat,Sweden,3,Opp,8.0,Rebecka Mårtensson,14. Ice clock,1,Selective Fight 3| Room PF Room 2| Round 1
-206,Bohdan Bidenko,Slovenia,3,Rep,5.0,Vitja Beltram,14. Ice clock,1,Selective Fight 3| Room PF Room 2| Round 1
-207,Bohdan Bidenko,Sweden,3,Opp,7.0,Rebecka Mårtensson,14. Ice clock,1,Selective Fight 3| Room PF Room 2| Round 1
-208,Evgenii Glushkov,Slovenia,3,Rep,7.0,Vitja Beltram,14. Ice clock,1,Selective Fight 3| Room PF Room 2| Round 1
-209,Evgenii Glushkov,Sweden,3,Opp,7.0,Rebecka Mårtensson,14. Ice clock,1,Selective Fight 3| Room PF Room 2| Round 1
-210,Sonia Natale,Slovenia,3,Rep,6.0,Vitja Beltram,14. Ice clock,1,Selective Fight 3| Room PF Room 2| Round 1
-211,Sonia Natale,Sweden,3,Opp,8.0,Rebecka Mårtensson,14. Ice clock,1,Selective Fight 3| Room PF Room 2| Round 1
-212,Alexander Nozik,United Kingdom,3,Rep,8.0,Aneesh Agarwal,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1
-213,Alexander Nozik,Colombia,3,Opp,8.0,Jose Betancourt,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1
-214,Claire Marrache,United Kingdom,3,Rep,6.0,Aneesh Agarwal,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1
-215,Claire Marrache,Colombia,3,Opp,8.0,Jose Betancourt,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1
-216,Sebastian Fava,United Kingdom,3,Rep,6.0,Aneesh Agarwal,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1
-217,Sebastian Fava,Colombia,3,Opp,9.0,Jose Betancourt,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1
-218,Vladimir Vanovsky,United Kingdom,3,Rep,7.0,Aneesh Agarwal,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1
-219,Vladimir Vanovsky,Colombia,3,Opp,8.0,Jose Betancourt,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1
-220,Åke Andersson,United Kingdom,3,Rep,4.0,Aneesh Agarwal,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1
-221,Åke Andersson,Colombia,3,Opp,7.0,Jose Betancourt,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1
-222,Aleksei Malyshev,Switzerland,3,Rep,7.0,Jaeger Alexander,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 4| Round 1
-223,Aleksei Malyshev,USA,3,Opp,7.0,Nicolas Albiani,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 4| Round 1
-224,Mark Bochkov,Switzerland,3,Rep,6.0,Jaeger Alexander,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 4| Round 1
-225,Mark Bochkov,USA,3,Opp,8.0,Nicolas Albiani,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 4| Round 1
-226,Pierre-Louis de Assis,Switzerland,3,Rep,8.0,Jaeger Alexander,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 4| Round 1
-227,Pierre-Louis de Assis,USA,3,Opp,8.0,Nicolas Albiani,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 4| Round 1
-228,Vitalii Lisovskyi,Switzerland,3,Rep,8.0,Jaeger Alexander,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 4| Round 1
-229,Vitalii Lisovskyi,USA,3,Opp,8.0,Nicolas Albiani,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 4| Round 1
-230,Federico Serrano,Brazil,3,Rep,9.0,Felipe Mazzi,11. The spinning washer,2,Selective Fight 3| Room PF Room 1| Round 2
-231,Federico Serrano,Ukraine,3,Opp,8.0,Hryhorii Ovcharenko,11. The spinning washer,2,Selective Fight 3| Room PF Room 1| Round 2
-232,Ivan Rojkov,Brazil,3,Rep,8.0,Felipe Mazzi,11. The spinning washer,2,Selective Fight 3| Room PF Room 1| Round 2
-233,Ivan Rojkov,Ukraine,3,Opp,8.0,Hryhorii Ovcharenko,11. The spinning washer,2,Selective Fight 3| Room PF Room 1| Round 2
-234,Nikolay Lysenko,Brazil,3,Rep,7.0,Felipe Mazzi,11. The spinning washer,2,Selective Fight 3| Room PF Room 1| Round 2
-235,Nikolay Lysenko,Ukraine,3,Opp,7.0,Hryhorii Ovcharenko,11. The spinning washer,2,Selective Fight 3| Room PF Room 1| Round 2
-236,Stanislav Vinogradov,Brazil,3,Rep,7.0,Felipe Mazzi,11. The spinning washer,2,Selective Fight 3| Room PF Room 1| Round 2
-237,Stanislav Vinogradov,Ukraine,3,Opp,7.0,Hryhorii Ovcharenko,11. The spinning washer,2,Selective Fight 3| Room PF Room 1| Round 2
-238,Aleksandr Svetlichnyi,France,3,Rep,7.0,Baptiste Monge,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1
-239,Aleksandr Svetlichnyi,Germany,3,Opp,7.0,Ivan Kokhanovskyi,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1
-240,Dmytro Oliinychenko,France,3,Rep,7.0,Baptiste Monge,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1
-241,Dmytro Oliinychenko,Germany,3,Opp,7.0,Ivan Kokhanovskyi,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1
-242,Georgy Fedorov,France,3,Rep,8.0,Baptiste Monge,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1
-243,Georgy Fedorov,Germany,3,Opp,7.0,Ivan Kokhanovskyi,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1
-244,Mathieu Suter,France,3,Rep,7.0,Baptiste Monge,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1
-245,Mathieu Suter,Germany,3,Opp,7.0,Ivan Kokhanovskyi,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1
-246,Zakhar Maizelis,France,3,Rep,7.0,Baptiste Monge,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1
-247,Zakhar Maizelis,Germany,3,Opp,7.0,Ivan Kokhanovskyi,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1
-248,Aakash Bhat,Sweden,3,Rep,8.0,Viktor Sundström,10. Rolling pasta,2,Selective Fight 3| Room PF Room 2| Round 2
-249,Aakash Bhat,Slovenia,3,Opp,8.0,Aleš Globočnik,10. Rolling pasta,2,Selective Fight 3| Room PF Room 2| Round 2
-250,Bohdan Bidenko,Sweden,3,Rep,5.0,Viktor Sundström,10. Rolling pasta,2,Selective Fight 3| Room PF Room 2| Round 2
-251,Bohdan Bidenko,Slovenia,3,Opp,6.0,Aleš Globočnik,10. Rolling pasta,2,Selective Fight 3| Room PF Room 2| Round 2
-252,Evgenii Glushkov,Sweden,3,Rep,8.0,Viktor Sundström,10. Rolling pasta,2,Selective Fight 3| Room PF Room 2| Round 2
-253,Evgenii Glushkov,Slovenia,3,Opp,8.0,Aleš Globočnik,10. Rolling pasta,2,Selective Fight 3| Room PF Room 2| Round 2
-254,Sonia Natale,Sweden,3,Rep,6.0,Viktor Sundström,10. Rolling pasta,2,Selective Fight 3| Room PF Room 2| Round 2
-255,Sonia Natale,Slovenia,3,Opp,7.0,Aleš Globočnik,10. Rolling pasta,2,Selective Fight 3| Room PF Room 2| Round 2
-256,Aleksei Malyshev,USA,3,Rep,4.0,Shantanu Kadam,10. Rolling pasta,2,Selective Fight 3| Room PF Room 4| Round 2
-257,Aleksei Malyshev,Switzerland,3,Opp,5.0,Grunwald Simon,10. Rolling pasta,2,Selective Fight 3| Room PF Room 4| Round 2
-258,Mark Bochkov,USA,3,Rep,4.0,Shantanu Kadam,10. Rolling pasta,2,Selective Fight 3| Room PF Room 4| Round 2
-259,Mark Bochkov,Switzerland,3,Opp,7.0,Grunwald Simon,10. Rolling pasta,2,Selective Fight 3| Room PF Room 4| Round 2
-260,Pierre-Louis de Assis,USA,3,Rep,3.0,Shantanu Kadam,10. Rolling pasta,2,Selective Fight 3| Room PF Room 4| Round 2
-261,Pierre-Louis de Assis,Switzerland,3,Opp,4.0,Grunwald Simon,10. Rolling pasta,2,Selective Fight 3| Room PF Room 4| Round 2
-262,Vitalii Lisovskyi,USA,3,Rep,7.0,Shantanu Kadam,10. Rolling pasta,2,Selective Fight 3| Room PF Room 4| Round 2
-263,Vitalii Lisovskyi,Switzerland,3,Opp,7.0,Grunwald Simon,10. Rolling pasta,2,Selective Fight 3| Room PF Room 4| Round 2
-264,Alexander Nozik,Colombia,3,Rep,8.0,Felipe Giraldo Grueso,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2
-265,Alexander Nozik,United Kingdom,3,Opp,8.0,Yansheng Zhang,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2
-266,Claire Marrache,Colombia,3,Rep,7.0,Felipe Giraldo Grueso,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2
-267,Claire Marrache,United Kingdom,3,Opp,7.0,Yansheng Zhang,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2
-268,Sebastian Fava,Colombia,3,Rep,6.0,Felipe Giraldo Grueso,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2
-269,Sebastian Fava,United Kingdom,3,Opp,7.0,Yansheng Zhang,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2
-270,Vladimir Vanovsky,Colombia,3,Rep,8.0,Felipe Giraldo Grueso,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2
-271,Vladimir Vanovsky,United Kingdom,3,Opp,8.0,Yansheng Zhang,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2
-272,Åke Andersson,Colombia,3,Rep,6.0,Felipe Giraldo Grueso,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2
-273,Åke Andersson,United Kingdom,3,Opp,10.0,Yansheng Zhang,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2
-274,Aleksei Lukianchuk,Pakistan,3,Rep,5.0,Sabah Ud Din Ahmad,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1
-275,Aleksei Lukianchuk,Russia,3,Opp,8.0,Ivan Polonik,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1
-276,Jürgen Durst,Pakistan,3,Rep,4.0,Sabah Ud Din Ahmad,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1
-277,Jürgen Durst,Russia,3,Opp,7.0,Ivan Polonik,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1
-278,Leandro Tessler,Pakistan,3,Rep,4.0,Sabah Ud Din Ahmad,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1
-279,Leandro Tessler,Russia,3,Opp,7.0,Ivan Polonik,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1
-280,Severian Gvasaliya,Pakistan,3,Rep,6.0,Sabah Ud Din Ahmad,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1
-281,Severian Gvasaliya,Russia,3,Opp,6.0,Ivan Polonik,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1
-282,Tarek Ben,Pakistan,3,Rep,5.0,Sabah Ud Din Ahmad,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1
-283,Tarek Ben,Russia,3,Opp,6.0,Ivan Polonik,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1
-284,Aleksei Lukianchuk,Russia,3,Rep,9.0,Ivan Polonik,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2
-285,Aleksei Lukianchuk,Pakistan,3,Opp,6.0,Maryam Ahsan,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2
-286,Jürgen Durst,Russia,3,Rep,7.0,Ivan Polonik,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2
-287,Jürgen Durst,Pakistan,3,Opp,5.0,Maryam Ahsan,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2
-288,Leandro Tessler,Russia,3,Rep,8.0,Ivan Polonik,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2
-289,Leandro Tessler,Pakistan,3,Opp,4.0,Maryam Ahsan,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2
-290,Severian Gvasaliya,Russia,3,Rep,9.0,Ivan Polonik,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2
-291,Severian Gvasaliya,Pakistan,3,Opp,6.0,Maryam Ahsan,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2
-292,Tarek Ben,Russia,3,Rep,9.0,Ivan Polonik,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2
-293,Tarek Ben,Pakistan,3,Opp,7.0,Maryam Ahsan,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2
-294,Aleksandr Svetlichnyi,Germany,3,Rep,6.0,Dmytro Melnichenko,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2
-295,Aleksandr Svetlichnyi,France,3,Opp,5.0,Emile Pangburn,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2
-296,Dmytro Oliinychenko,Germany,3,Rep,5.0,Dmytro Melnichenko,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2
-297,Dmytro Oliinychenko,France,3,Opp,6.0,Emile Pangburn,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2
-298,Georgy Fedorov,Germany,3,Rep,5.0,Dmytro Melnichenko,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2
-299,Georgy Fedorov,France,3,Opp,4.0,Emile Pangburn,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2
-300,Mathieu Suter,Germany,3,Rep,4.0,Dmytro Melnichenko,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2
-301,Mathieu Suter,France,3,Opp,6.0,Emile Pangburn,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2
-302,Zakhar Maizelis,Germany,3,Rep,5.0,Dmytro Melnichenko,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2
-303,Zakhar Maizelis,France,3,Opp,7.0,Emile Pangburn,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2
-304,Aeysha Khalique,Ukraine,2,Rep,8.0,Hryhorii Ovcharenko,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 6| Round 2
-305,Aeysha Khalique,Sweden,2,Opp,7.0,Viktor Sundström,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 6| Round 2
-306,Claire Marrache,Ukraine,2,Rep,7.0,Hryhorii Ovcharenko,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 6| Round 2
-307,Claire Marrache,Sweden,2,Opp,7.0,Viktor Sundström,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 6| Round 2
-308,David Collomb,Ukraine,2,Rep,8.0,Hryhorii Ovcharenko,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 6| Round 2
-309,David Collomb,Sweden,2,Opp,7.0,Viktor Sundström,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 6| Round 2
-310,Nikolay Lysenko,Ukraine,2,Rep,8.0,Hryhorii Ovcharenko,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 6| Round 2
-311,Nikolay Lysenko,Sweden,2,Opp,9.0,Viktor Sundström,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 6| Round 2
-312,Aleksandr Svetlichnyi,Slovenia,4,Rep,4.0,Aleš Globočnik,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1
-313,Aleksandr Svetlichnyi,Germany,4,Opp,7.0,Ivan Kokhanovskyi,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1
-314,Aleksei Malyshev,Slovenia,4,Rep,7.0,Aleš Globočnik,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1
-315,Aleksei Malyshev,Germany,4,Opp,6.0,Ivan Kokhanovskyi,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1
-316,Tarek Ben,Slovenia,4,Rep,4.0,Aleš Globočnik,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1
-317,Tarek Ben,Germany,4,Opp,4.0,Ivan Kokhanovskyi,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1
-318,U. Pyrohova,Slovenia,4,Rep,5.0,Aleš Globočnik,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1
-319,U. Pyrohova,Germany,4,Opp,8.0,Ivan Kokhanovskyi,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1
-320,Zakhar Maizelis,Slovenia,4,Rep,5.0,Aleš Globočnik,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1
-321,Zakhar Maizelis,Germany,4,Opp,7.0,Ivan Kokhanovskyi,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1
-322,Alberto Rolandi,United Kingdom,4,Rep,9.0,Jonathan Chee Xian Kuan,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1
-323,Alberto Rolandi,Ukraine,4,Opp,7.0,Oleh Ivashtenko,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1
-324,Aleksandr Berezutskii,United Kingdom,4,Rep,7.0,Jonathan Chee Xian Kuan,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1
-325,Aleksandr Berezutskii,Ukraine,4,Opp,7.0,Oleh Ivashtenko,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1
-326,Alexander Nozik,United Kingdom,4,Rep,4.0,Jonathan Chee Xian Kuan,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1
-327,Alexander Nozik,Ukraine,4,Opp,7.0,Oleh Ivashtenko,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1
-328,Jürgen Durst,United Kingdom,4,Rep,8.0,Jonathan Chee Xian Kuan,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1
-329,Jürgen Durst,Ukraine,4,Opp,8.0,Oleh Ivashtenko,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1
-330,Åke Andersson,United Kingdom,4,Rep,5.0,Jonathan Chee Xian Kuan,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1
-331,Åke Andersson,Ukraine,4,Opp,6.0,Oleh Ivashtenko,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1
-332,Amaury Barral,Colombia,4,Rep,7.0,Santiago Higuera,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1
-333,Amaury Barral,Switzerland,4,Opp,7.0,Grunwald Simon,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1
-334,Duy Nguyen Van,Colombia,4,Rep,6.0,Santiago Higuera,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1
-335,Duy Nguyen Van,Switzerland,4,Opp,6.0,Grunwald Simon,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1
-336,Roman Vydro,Colombia,4,Rep,6.0,Santiago Higuera,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1
-337,Roman Vydro,Switzerland,4,Opp,8.0,Grunwald Simon,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1
-338,Stanislav Vinogradov,Colombia,4,Rep,7.0,Santiago Higuera,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1
-339,Stanislav Vinogradov,Switzerland,4,Opp,8.0,Grunwald Simon,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1
-340,Vladimir Vanovsky,Colombia,4,Rep,7.0,Santiago Higuera,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1
-341,Vladimir Vanovsky,Switzerland,4,Opp,8.0,Grunwald Simon,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1
-342,Aeysha Khalique,France,4,Rep,9.0,Amazigh Ouzriat,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1
-343,Aeysha Khalique,Russia,4,Opp,8.0,Ivan Polonik,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1
-344,Federico Serrano,France,4,Rep,7.0,Amazigh Ouzriat,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1
-345,Federico Serrano,Russia,4,Opp,6.0,Ivan Polonik,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1
-346,Mathieu Suter,France,4,Rep,7.0,Amazigh Ouzriat,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1
-347,Mathieu Suter,Russia,4,Opp,8.0,Ivan Polonik,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1
-348,Platon Dmitriyev,France,4,Rep,8.0,Amazigh Ouzriat,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1
-349,Platon Dmitriyev,Russia,4,Opp,8.0,Ivan Polonik,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1
-350,Sonia Natale,France,4,Rep,8.0,Amazigh Ouzriat,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1
-351,Sonia Natale,Russia,4,Opp,6.0,Ivan Polonik,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1
-352,Aleksandr Svetlichnyi,Germany,4,Rep,5.0,Dominik Döllerer,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2
-353,Aleksandr Svetlichnyi,Slovenia,4,Opp,5.0,Maj Mejak,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2
-354,Aleksei Malyshev,Germany,4,Rep,7.0,Dominik Döllerer,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2
-355,Aleksei Malyshev,Slovenia,4,Opp,6.0,Maj Mejak,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2
-356,Tarek Ben,Germany,4,Rep,7.0,Dominik Döllerer,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2
-357,Tarek Ben,Slovenia,4,Opp,8.0,Maj Mejak,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2
-358,U. Pyrohova,Germany,4,Rep,5.0,Dominik Döllerer,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2
-359,U. Pyrohova,Slovenia,4,Opp,7.0,Maj Mejak,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2
-360,Zakhar Maizelis,Germany,4,Rep,5.0,Dominik Döllerer,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2
-361,Zakhar Maizelis,Slovenia,4,Opp,7.0,Maj Mejak,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2
-362,Aeysha Khalique,Russia,4,Rep,8.0,Maksim Kleimenov,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2
-363,Aeysha Khalique,France,4,Opp,8.0,Emile Pangburn,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2
-364,Federico Serrano,Russia,4,Rep,9.0,Maksim Kleimenov,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2
-365,Federico Serrano,France,4,Opp,8.0,Emile Pangburn,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2
-366,Mathieu Suter,Russia,4,Rep,8.0,Maksim Kleimenov,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2
-367,Mathieu Suter,France,4,Opp,7.0,Emile Pangburn,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2
-368,Platon Dmitriyev,Russia,4,Rep,10.0,Maksim Kleimenov,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2
-369,Platon Dmitriyev,France,4,Opp,9.0,Emile Pangburn,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2
-370,Sonia Natale,Russia,4,Rep,8.0,Maksim Kleimenov,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2
-371,Sonia Natale,France,4,Opp,7.0,Emile Pangburn,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2
-372,Alberto Rolandi,Ukraine,4,Rep,8.0,Hryhorii Ovcharenko,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2
-373,Alberto Rolandi,United Kingdom,4,Opp,8.0,Yansheng Zhang,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2
-374,Aleksandr Berezutskii,Ukraine,4,Rep,8.0,Hryhorii Ovcharenko,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2
-375,Aleksandr Berezutskii,United Kingdom,4,Opp,8.0,Yansheng Zhang,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2
-376,Alexander Nozik,Ukraine,4,Rep,9.0,Hryhorii Ovcharenko,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2
-377,Alexander Nozik,United Kingdom,4,Opp,6.0,Yansheng Zhang,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2
-378,Jürgen Durst,Ukraine,4,Rep,8.0,Hryhorii Ovcharenko,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2
-379,Jürgen Durst,United Kingdom,4,Opp,6.0,Yansheng Zhang,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2
-380,Åke Andersson,Ukraine,4,Rep,6.0,Hryhorii Ovcharenko,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2
-381,Åke Andersson,United Kingdom,4,Opp,7.0,Yansheng Zhang,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2
-382,Amaury Barral,Switzerland,4,Rep,8.0,Jaeger Alexander,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2
-383,Amaury Barral,Colombia,4,Opp,10.0,Jose Betancourt,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2
-384,Duy Nguyen Van,Switzerland,4,Rep,8.0,Jaeger Alexander,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2
-385,Duy Nguyen Van,Colombia,4,Opp,7.0,Jose Betancourt,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2
-386,Roman Vydro,Switzerland,4,Rep,7.0,Jaeger Alexander,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2
-387,Roman Vydro,Colombia,4,Opp,8.0,Jose Betancourt,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2
-388,Stanislav Vinogradov,Switzerland,4,Rep,5.0,Jaeger Alexander,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2
-389,Stanislav Vinogradov,Colombia,4,Opp,6.0,Jose Betancourt,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2
-390,Vladimir Vanovsky,Switzerland,4,Rep,5.0,Jaeger Alexander,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2
-391,Vladimir Vanovsky,Colombia,4,Opp,8.0,Jose Betancourt,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2
-392,Bohdan Bidenko,Brazil,4,Rep,7.0,Leonardo FalabellaandMaria Carolina Volpato,4.  Hydraulic jump white hole,1,Selective Fight 4| Room PF Room 1| Round 1
-393,Bohdan Bidenko,Pakistan,4,Opp,7.0,Muhammad Anas Nasser,4.  Hydraulic jump white hole,1,Selective Fight 4| Room PF Room 1| Round 1
-394,Dmytro Oliinychenko,Brazil,4,Rep,8.0,Leonardo FalabellaandMaria Carolina Volpato,4.  Hydraulic jump white hole,1,Selective Fight 4| Room PF Room 1| Round 1
-395,Dmytro Oliinychenko,Pakistan,4,Opp,8.0,Muhammad Anas Nasser,4.  Hydraulic jump white hole,1,Selective Fight 4| Room PF Room 1| Round 1
-396,Georgy Fedorov,Brazil,4,Rep,7.0,Leonardo FalabellaandMaria Carolina Volpato,4.  Hydraulic jump white hole,1,Selective Fight 4| Room PF Room 1| Round 1
-397,Georgy Fedorov,Pakistan,4,Opp,7.0,Muhammad Anas Nasser,4.  Hydraulic jump white hole,1,Selective Fight 4| Room PF Room 1| Round 1
-398,Riccardo Fabbricatore,Brazil,4,Rep,5.0,Leonardo FalabellaandMaria Carolina Volpato,4.  Hydraulic jump white hole,1,Selective Fight 4| Room PF Room 1| Round 1
-399,Riccardo Fabbricatore,Pakistan,4,Opp,6.0,Muhammad Anas Nasser,4.  Hydraulic jump white hole,1,Selective Fight 4| Room PF Room 1| Round 1
-400,Aakash Bhat,USA,4,Rep,5.0,Bingxu Meng,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1
-401,Aakash Bhat,Sweden,4,Opp,6.0,Hugo Spencer,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1
-402,Aleksei Lukianchuk,USA,4,Rep,5.0,Bingxu Meng,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1
-403,Aleksei Lukianchuk,Sweden,4,Opp,7.0,Hugo Spencer,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1
-404,Leandro Tessler,USA,4,Rep,4.0,Bingxu Meng,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1
-405,Leandro Tessler,Sweden,4,Opp,6.0,Hugo Spencer,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1
-406,Nikolay Lysenko,USA,4,Rep,5.0,Bingxu Meng,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1
-407,Nikolay Lysenko,Sweden,4,Opp,8.0,Hugo Spencer,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1
-408,Vitalii Lisovskyi,USA,4,Rep,6.0,Bingxu Meng,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1
-409,Vitalii Lisovskyi,Sweden,4,Opp,8.0,Hugo Spencer,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1
-410,Aakash Bhat,Sweden,4,Rep,5.0,Emrik Östling,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2
-411,Aakash Bhat,USA,4,Opp,7.0,Miguel Ceja,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2
-412,Aleksei Lukianchuk,Sweden,4,Rep,3.0,Emrik Östling,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2
-413,Aleksei Lukianchuk,USA,4,Opp,8.0,Miguel Ceja,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2
-414,Leandro Tessler,Sweden,4,Rep,6.0,Emrik Östling,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2
-415,Leandro Tessler,USA,4,Opp,6.0,Miguel Ceja,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2
-416,Nikolay Lysenko,Sweden,4,Rep,4.0,Emrik Östling,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2
-417,Nikolay Lysenko,USA,4,Opp,5.0,Miguel Ceja,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2
-418,Vitalii Lisovskyi,Sweden,4,Rep,6.0,Emrik Östling,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2
-419,Vitalii Lisovskyi,USA,4,Opp,7.0,Miguel Ceja,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2
-420,Bohdan Bidenko,Pakistan,4,Rep,6.0,Sabah Ud Din Ahmad,16. Graphite lamp,2,Selective Fight 4| Room PF Room 1| Round 2
-421,Bohdan Bidenko,Brazil,4,Opp,8.0,Ana Elisa Barioni,16. Graphite lamp,2,Selective Fight 4| Room PF Room 1| Round 2
-422,Dmytro Oliinychenko,Pakistan,4,Rep,5.0,Sabah Ud Din Ahmad,16. Graphite lamp,2,Selective Fight 4| Room PF Room 1| Round 2
-423,Dmytro Oliinychenko,Brazil,4,Opp,6.0,Ana Elisa Barioni,16. Graphite lamp,2,Selective Fight 4| Room PF Room 1| Round 2
-424,Georgy Fedorov,Pakistan,4,Rep,5.0,Sabah Ud Din Ahmad,16. Graphite lamp,2,Selective Fight 4| Room PF Room 1| Round 2
-425,Georgy Fedorov,Brazil,4,Opp,8.0,Ana Elisa Barioni,16. Graphite lamp,2,Selective Fight 4| Room PF Room 1| Round 2
-426,Riccardo Fabbricatore,Pakistan,4,Rep,7.0,Sabah Ud Din Ahmad,16. Graphite lamp,2,Selective Fight 4| Room PF Room 1| Round 2
-427,Riccardo Fabbricatore,Brazil,4,Opp,9.0,Ana Elisa Barioni,16. Graphite lamp,2,Selective Fight 4| Room PF Room 1| Round 2
-428,Alberto Rolandi,Brazil,6,Rep,9.0,Felipe Mazzi,13. Branching light,1,IPT2021 Final| Round 1
-429,Alberto Rolandi,Ukraine,6,Opp,4.0,Oleh Ivashtenko,13. Branching light,1,IPT2021 Final| Round 1
-430,Alberto Rolandi,Russia,6,Mod,4.0,Maksim Kleimenov,13. Branching light,1,IPT2021 Final| Round 1
-431,Amaury Barral,Brazil,6,Rep,7.0,Felipe Mazzi,13. Branching light,1,IPT2021 Final| Round 1
-432,Amaury Barral,Ukraine,6,Opp,5.0,Oleh Ivashtenko,13. Branching light,1,IPT2021 Final| Round 1
-433,Amaury Barral,Russia,6,Mod,9.0,Maksim Kleimenov,13. Branching light,1,IPT2021 Final| Round 1
-434,Dmytro Oliinychenko,Brazil,6,Rep,6.0,Felipe Mazzi,13. Branching light,1,IPT2021 Final| Round 1
-435,Dmytro Oliinychenko,Ukraine,6,Opp,5.0,Oleh Ivashtenko,13. Branching light,1,IPT2021 Final| Round 1
-436,Dmytro Oliinychenko,Russia,6,Mod,7.0,Maksim Kleimenov,13. Branching light,1,IPT2021 Final| Round 1
-437,Federico Serrano,Brazil,6,Rep,9.0,Felipe Mazzi,13. Branching light,1,IPT2021 Final| Round 1
-438,Federico Serrano,Ukraine,6,Opp,8.0,Oleh Ivashtenko,13. Branching light,1,IPT2021 Final| Round 1
-439,Federico Serrano,Russia,6,Mod,8.0,Maksim Kleimenov,13. Branching light,1,IPT2021 Final| Round 1
-440,Sebastian Fava,Brazil,6,Rep,8.0,Felipe Mazzi,13. Branching light,1,IPT2021 Final| Round 1
-441,Sebastian Fava,Ukraine,6,Opp,7.0,Oleh Ivashtenko,13. Branching light,1,IPT2021 Final| Round 1
-442,Sebastian Fava,Russia,6,Mod,6.0,Maksim Kleimenov,13. Branching light,1,IPT2021 Final| Round 1
-443,Sonia Natale,Brazil,6,Rep,7.0,Felipe Mazzi,13. Branching light,1,IPT2021 Final| Round 1
-444,Sonia Natale,Ukraine,6,Opp,7.0,Oleh Ivashtenko,13. Branching light,1,IPT2021 Final| Round 1
-445,Sonia Natale,Russia,6,Mod,8.0,Maksim Kleimenov,13. Branching light,1,IPT2021 Final| Round 1
-446,Åke Andersson,Brazil,6,Rep,5.0,Felipe Mazzi,13. Branching light,1,IPT2021 Final| Round 1
-447,Åke Andersson,Ukraine,6,Opp,5.0,Oleh Ivashtenko,13. Branching light,1,IPT2021 Final| Round 1
-448,Åke Andersson,Russia,6,Mod,5.0,Maksim Kleimenov,13. Branching light,1,IPT2021 Final| Round 1
-449,Alberto Rolandi,Ukraine,6,Rep,9.0,Hryhorii Ovcharenko,12. Metallic forest,2,IPT2021 Final| Round 2
-450,Alberto Rolandi,Russia,6,Opp,8.0,Ivan Polonik,12. Metallic forest,2,IPT2021 Final| Round 2
-451,Alberto Rolandi,Brazil,6,Mod,8.0,Ana Elisa Barioni,12. Metallic forest,2,IPT2021 Final| Round 2
-452,Amaury Barral,Ukraine,6,Rep,5.0,Hryhorii Ovcharenko,12. Metallic forest,2,IPT2021 Final| Round 2
-453,Amaury Barral,Russia,6,Opp,10.0,Ivan Polonik,12. Metallic forest,2,IPT2021 Final| Round 2
-454,Amaury Barral,Brazil,6,Mod,7.0,Ana Elisa Barioni,12. Metallic forest,2,IPT2021 Final| Round 2
-455,Dmytro Oliinychenko,Ukraine,6,Rep,7.0,Hryhorii Ovcharenko,12. Metallic forest,2,IPT2021 Final| Round 2
-456,Dmytro Oliinychenko,Russia,6,Opp,9.0,Ivan Polonik,12. Metallic forest,2,IPT2021 Final| Round 2
-457,Dmytro Oliinychenko,Brazil,6,Mod,8.0,Ana Elisa Barioni,12. Metallic forest,2,IPT2021 Final| Round 2
-458,Federico Serrano,Ukraine,6,Rep,9.0,Hryhorii Ovcharenko,12. Metallic forest,2,IPT2021 Final| Round 2
-459,Federico Serrano,Russia,6,Opp,9.0,Ivan Polonik,12. Metallic forest,2,IPT2021 Final| Round 2
-460,Federico Serrano,Brazil,6,Mod,9.0,Ana Elisa Barioni,12. Metallic forest,2,IPT2021 Final| Round 2
-461,Sebastian Fava,Ukraine,6,Rep,4.0,Hryhorii Ovcharenko,12. Metallic forest,2,IPT2021 Final| Round 2
-462,Sebastian Fava,Russia,6,Opp,9.0,Ivan Polonik,12. Metallic forest,2,IPT2021 Final| Round 2
-463,Sebastian Fava,Brazil,6,Mod,7.0,Ana Elisa Barioni,12. Metallic forest,2,IPT2021 Final| Round 2
-464,Sonia Natale,Ukraine,6,Rep,8.0,Hryhorii Ovcharenko,12. Metallic forest,2,IPT2021 Final| Round 2
-465,Sonia Natale,Russia,6,Opp,9.0,Ivan Polonik,12. Metallic forest,2,IPT2021 Final| Round 2
-466,Sonia Natale,Brazil,6,Mod,8.0,Ana Elisa Barioni,12. Metallic forest,2,IPT2021 Final| Round 2
-467,Åke Andersson,Ukraine,6,Rep,3.0,Hryhorii Ovcharenko,12. Metallic forest,2,IPT2021 Final| Round 2
-468,Åke Andersson,Russia,6,Opp,8.0,Ivan Polonik,12. Metallic forest,2,IPT2021 Final| Round 2
-469,Åke Andersson,Brazil,6,Mod,4.0,Ana Elisa Barioni,12. Metallic forest,2,IPT2021 Final| Round 2
-470,Alberto Rolandi,Russia,6,Rep,10.0,Artem Sukhov,2. Pop-Pop away,3,IPT2021 Final| Round 3
-471,Alberto Rolandi,Brazil,6,Opp,7.0,Leonardo Falabella,2. Pop-Pop away,3,IPT2021 Final| Round 3
-472,Alberto Rolandi,Ukraine,6,Mod,6.0,Oleksandr Kitsenko,2. Pop-Pop away,3,IPT2021 Final| Round 3
-473,Amaury Barral,Russia,6,Rep,4.0,Artem Sukhov,2. Pop-Pop away,3,IPT2021 Final| Round 3
-474,Amaury Barral,Brazil,6,Opp,5.0,Leonardo Falabella,2. Pop-Pop away,3,IPT2021 Final| Round 3
-475,Amaury Barral,Ukraine,6,Mod,6.0,Oleksandr Kitsenko,2. Pop-Pop away,3,IPT2021 Final| Round 3
-476,Dmytro Oliinychenko,Russia,6,Rep,9.0,Artem Sukhov,2. Pop-Pop away,3,IPT2021 Final| Round 3
-477,Dmytro Oliinychenko,Brazil,6,Opp,8.0,Leonardo Falabella,2. Pop-Pop away,3,IPT2021 Final| Round 3
-478,Dmytro Oliinychenko,Ukraine,6,Mod,8.0,Oleksandr Kitsenko,2. Pop-Pop away,3,IPT2021 Final| Round 3
-479,Federico Serrano,Russia,6,Rep,8.0,Artem Sukhov,2. Pop-Pop away,3,IPT2021 Final| Round 3
-480,Federico Serrano,Brazil,6,Opp,9.0,Leonardo Falabella,2. Pop-Pop away,3,IPT2021 Final| Round 3
-481,Federico Serrano,Ukraine,6,Mod,8.0,Oleksandr Kitsenko,2. Pop-Pop away,3,IPT2021 Final| Round 3
-482,Sebastian Fava,Russia,6,Rep,8.0,Artem Sukhov,2. Pop-Pop away,3,IPT2021 Final| Round 3
-483,Sebastian Fava,Brazil,6,Opp,8.0,Leonardo Falabella,2. Pop-Pop away,3,IPT2021 Final| Round 3
-484,Sebastian Fava,Ukraine,6,Mod,7.0,Oleksandr Kitsenko,2. Pop-Pop away,3,IPT2021 Final| Round 3
-485,Sonia Natale,Russia,6,Rep,9.0,Artem Sukhov,2. Pop-Pop away,3,IPT2021 Final| Round 3
-486,Sonia Natale,Brazil,6,Opp,7.0,Leonardo Falabella,2. Pop-Pop away,3,IPT2021 Final| Round 3
-487,Sonia Natale,Ukraine,6,Mod,7.0,Oleksandr Kitsenko,2. Pop-Pop away,3,IPT2021 Final| Round 3
-488,Åke Andersson,Russia,6,Rep,6.0,Artem Sukhov,2. Pop-Pop away,3,IPT2021 Final| Round 3
-489,Åke Andersson,Brazil,6,Opp,6.0,Leonardo Falabella,2. Pop-Pop away,3,IPT2021 Final| Round 3
-490,Åke Andersson,Ukraine,6,Mod,4.0,Oleksandr Kitsenko,2. Pop-Pop away,3,IPT2021 Final| Round 3
+,juror,country,fight,role,score,participant,problem,round,fightName,fightID
+0,Aleksandr Svetlichnyi,France,1,Rep,5.0,Amazigh Ouzriat,3. Dirty racing,1,Selective Fight 1| Room PF Room 4| Round 1,0
+1,Aleksandr Svetlichnyi,Sweden,1,Opp,4.0,Hugo Spencer,3. Dirty racing,1,Selective Fight 1| Room PF Room 4| Round 1,0
+2,Pierre-Louis de Assis,France,1,Rep,6.0,Amazigh Ouzriat,3. Dirty racing,1,Selective Fight 1| Room PF Room 4| Round 1,0
+3,Pierre-Louis de Assis,Sweden,1,Opp,6.0,Hugo Spencer,3. Dirty racing,1,Selective Fight 1| Room PF Room 4| Round 1,0
+4,Riccardo Fabbricatore,France,1,Rep,7.0,Amazigh Ouzriat,3. Dirty racing,1,Selective Fight 1| Room PF Room 4| Round 1,0
+5,Riccardo Fabbricatore,Sweden,1,Opp,9.0,Hugo Spencer,3. Dirty racing,1,Selective Fight 1| Room PF Room 4| Round 1,0
+6,U. Pyrohova,France,1,Rep,5.0,Amazigh Ouzriat,3. Dirty racing,1,Selective Fight 1| Room PF Room 4| Round 1,0
+7,U. Pyrohova,Sweden,1,Opp,4.0,Hugo Spencer,3. Dirty racing,1,Selective Fight 1| Room PF Room 4| Round 1,0
+8,Jürgen Durst,United Kingdom,1,Rep,5.0,Yansheng Zhang,1. Nuclear mousetraps,1,Selective Fight 1| Room PF Room 6| Round 1,1
+9,Jürgen Durst,USA,1,Opp,5.0,Miguel Ceja,1. Nuclear mousetraps,1,Selective Fight 1| Room PF Room 6| Round 1,1
+10,Leonid Morgun,United Kingdom,1,Rep,7.0,Yansheng Zhang,1. Nuclear mousetraps,1,Selective Fight 1| Room PF Room 6| Round 1,1
+11,Leonid Morgun,USA,1,Opp,7.0,Miguel Ceja,1. Nuclear mousetraps,1,Selective Fight 1| Room PF Room 6| Round 1,1
+12,Sonia Natale,United Kingdom,1,Rep,7.0,Yansheng Zhang,1. Nuclear mousetraps,1,Selective Fight 1| Room PF Room 6| Round 1,1
+13,Sonia Natale,USA,1,Opp,7.0,Miguel Ceja,1. Nuclear mousetraps,1,Selective Fight 1| Room PF Room 6| Round 1,1
+14,Vitalii Lisovskyi,United Kingdom,1,Rep,7.0,Yansheng Zhang,1. Nuclear mousetraps,1,Selective Fight 1| Room PF Room 6| Round 1,1
+15,Vitalii Lisovskyi,USA,1,Opp,7.0,Miguel Ceja,1. Nuclear mousetraps,1,Selective Fight 1| Room PF Room 6| Round 1,1
+16,Alexander Nozik,Pakistan,1,Rep,6.0,Muhammad Anas Nasser,3. Dirty racing,1,Selective Fight 1| Room PF Room 5| Round 1,2
+17,Alexander Nozik,Germany,1,Opp,9.0,Ivan Kokhanovskyi,3. Dirty racing,1,Selective Fight 1| Room PF Room 5| Round 1,2
+18,Amaury Barral,Pakistan,1,Rep,3.0,Muhammad Anas Nasser,3. Dirty racing,1,Selective Fight 1| Room PF Room 5| Round 1,2
+19,Amaury Barral,Germany,1,Opp,7.0,Ivan Kokhanovskyi,3. Dirty racing,1,Selective Fight 1| Room PF Room 5| Round 1,2
+20,Leandro Tessler,Pakistan,1,Rep,5.0,Muhammad Anas Nasser,3. Dirty racing,1,Selective Fight 1| Room PF Room 5| Round 1,2
+21,Leandro Tessler,Germany,1,Opp,7.0,Ivan Kokhanovskyi,3. Dirty racing,1,Selective Fight 1| Room PF Room 5| Round 1,2
+22,Stanislav Vinogradov,Pakistan,1,Rep,3.0,Muhammad Anas Nasser,3. Dirty racing,1,Selective Fight 1| Room PF Room 5| Round 1,2
+23,Stanislav Vinogradov,Germany,1,Opp,7.0,Ivan Kokhanovskyi,3. Dirty racing,1,Selective Fight 1| Room PF Room 5| Round 1,2
+24,David Collomb,Colombia,1,Rep,6.0,Christian David Forero Pulido,8. Heavy parachute,2,Selective Fight 1| Room PF Room 3| Round 2,3
+25,David Collomb,Ukraine,1,Opp,7.0,Oleh Ivashtenko,8. Heavy parachute,2,Selective Fight 1| Room PF Room 3| Round 2,3
+26,Dmytro Oliinychenko,Colombia,1,Rep,5.0,Christian David Forero Pulido,8. Heavy parachute,2,Selective Fight 1| Room PF Room 3| Round 2,3
+27,Dmytro Oliinychenko,Ukraine,1,Opp,6.0,Oleh Ivashtenko,8. Heavy parachute,2,Selective Fight 1| Room PF Room 3| Round 2,3
+28,Georgy Fedorov,Colombia,1,Rep,7.0,Christian David Forero Pulido,8. Heavy parachute,2,Selective Fight 1| Room PF Room 3| Round 2,3
+29,Georgy Fedorov,Ukraine,1,Opp,7.0,Oleh Ivashtenko,8. Heavy parachute,2,Selective Fight 1| Room PF Room 3| Round 2,3
+30,Severian Gvasaliya,Colombia,1,Rep,6.0,Christian David Forero Pulido,8. Heavy parachute,2,Selective Fight 1| Room PF Room 3| Round 2,3
+31,Severian Gvasaliya,Ukraine,1,Opp,7.0,Oleh Ivashtenko,8. Heavy parachute,2,Selective Fight 1| Room PF Room 3| Round 2,3
+32,David Collomb,Ukraine,1,Rep,7.0,Oleh Ivashtenko,12. Metallic forest,1,Selective Fight 1| Room PF Room 3| Round 1,3
+33,David Collomb,Colombia,1,Opp,7.0,Luis Carlos Mantilla Calderon,12. Metallic forest,1,Selective Fight 1| Room PF Room 3| Round 1,3
+34,Dmytro Oliinychenko,Ukraine,1,Rep,5.0,Oleh Ivashtenko,12. Metallic forest,1,Selective Fight 1| Room PF Room 3| Round 1,3
+35,Dmytro Oliinychenko,Colombia,1,Opp,7.0,Luis Carlos Mantilla Calderon,12. Metallic forest,1,Selective Fight 1| Room PF Room 3| Round 1,3
+36,Georgy Fedorov,Ukraine,1,Rep,6.0,Oleh Ivashtenko,12. Metallic forest,1,Selective Fight 1| Room PF Room 3| Round 1,3
+37,Georgy Fedorov,Colombia,1,Opp,8.0,Luis Carlos Mantilla Calderon,12. Metallic forest,1,Selective Fight 1| Room PF Room 3| Round 1,3
+38,Severian Gvasaliya,Ukraine,1,Rep,8.0,Oleh Ivashtenko,12. Metallic forest,1,Selective Fight 1| Room PF Room 3| Round 1,3
+39,Severian Gvasaliya,Colombia,1,Opp,6.0,Luis Carlos Mantilla Calderon,12. Metallic forest,1,Selective Fight 1| Room PF Room 3| Round 1,3
+40,Duy Nguyen Van,Slovenia,1,Rep,8.0,Maj Mejak,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1,4
+41,Duy Nguyen Van,Switzerland,1,Opp,7.0,Bosch Maximilian,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1,4
+42,Nikolay Lysenko,Slovenia,1,Rep,5.0,Maj Mejak,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1,4
+43,Nikolay Lysenko,Switzerland,1,Opp,4.0,Bosch Maximilian,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1,4
+44,Platon Dmitriyev,Slovenia,1,Rep,4.0,Maj Mejak,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1,4
+45,Platon Dmitriyev,Switzerland,1,Opp,4.0,Bosch Maximilian,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1,4
+46,Tarek Ben,Slovenia,1,Rep,8.0,Maj Mejak,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1,4
+47,Tarek Ben,Switzerland,1,Opp,7.0,Bosch Maximilian,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1,4
+48,Zakhar Maizelis,Slovenia,1,Rep,6.0,Maj Mejak,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1,4
+49,Zakhar Maizelis,Switzerland,1,Opp,5.0,Bosch Maximilian,11. The spinning washer,1,Selective Fight 1| Room PF Room 2| Round 1,4
+50,Duy Nguyen Van,Switzerland,1,Rep,7.0,Jaeger Alexander,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2,4
+51,Duy Nguyen Van,Slovenia,1,Opp,6.0,Aleš Globočnik,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2,4
+52,Nikolay Lysenko,Switzerland,1,Rep,6.0,Jaeger Alexander,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2,4
+53,Nikolay Lysenko,Slovenia,1,Opp,5.0,Aleš Globočnik,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2,4
+54,Platon Dmitriyev,Switzerland,1,Rep,7.0,Jaeger Alexander,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2,4
+55,Platon Dmitriyev,Slovenia,1,Opp,6.0,Aleš Globočnik,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2,4
+56,Tarek Ben,Switzerland,1,Rep,6.0,Jaeger Alexander,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2,4
+57,Tarek Ben,Slovenia,1,Opp,7.0,Aleš Globočnik,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2,4
+58,Zakhar Maizelis,Switzerland,1,Rep,6.0,Jaeger Alexander,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2,4
+59,Zakhar Maizelis,Slovenia,1,Opp,6.0,Aleš Globočnik,8. Heavy parachute,2,Selective Fight 1| Room PF Room 2| Round 2,4
+60,Bohdan Bidenko,Russia,1,Rep,6.0,Ivan Kalesnikau,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1,5
+61,Bohdan Bidenko,Brazil,1,Opp,6.0,Felipe Mazzi,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1,5
+62,Evgenii Glushkov,Russia,1,Rep,8.0,Ivan Kalesnikau,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1,5
+63,Evgenii Glushkov,Brazil,1,Opp,6.0,Felipe Mazzi,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1,5
+64,Geraldine Feraud,Russia,1,Rep,8.0,Ivan Kalesnikau,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1,5
+65,Geraldine Feraud,Brazil,1,Opp,7.0,Felipe Mazzi,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1,5
+66,Ivan Rojkov,Russia,1,Rep,7.0,Ivan Kalesnikau,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1,5
+67,Ivan Rojkov,Brazil,1,Opp,6.0,Felipe Mazzi,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1,5
+68,Åke Andersson,Russia,1,Rep,8.0,Ivan Kalesnikau,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1,5
+69,Åke Andersson,Brazil,1,Opp,5.0,Felipe Mazzi,12. Metallic forest,1,Selective Fight 1| Room PF Room 1| Round 1,5
+70,Jürgen Durst,USA,1,Rep,6.0,Shantanu Kadam,14. Ice clock,2,Selective Fight 1| Room PF Room 6| Round 2,1
+71,Jürgen Durst,United Kingdom,1,Opp,7.0,Khoi Le Nguyen Nguyen,14. Ice clock,2,Selective Fight 1| Room PF Room 6| Round 2,1
+72,Leonid Morgun,USA,1,Rep,5.0,Shantanu Kadam,14. Ice clock,2,Selective Fight 1| Room PF Room 6| Round 2,1
+73,Leonid Morgun,United Kingdom,1,Opp,6.0,Khoi Le Nguyen Nguyen,14. Ice clock,2,Selective Fight 1| Room PF Room 6| Round 2,1
+74,Sonia Natale,USA,1,Rep,8.0,Shantanu Kadam,14. Ice clock,2,Selective Fight 1| Room PF Room 6| Round 2,1
+75,Sonia Natale,United Kingdom,1,Opp,8.0,Khoi Le Nguyen Nguyen,14. Ice clock,2,Selective Fight 1| Room PF Room 6| Round 2,1
+76,Vitalii Lisovskyi,USA,1,Rep,7.0,Shantanu Kadam,14. Ice clock,2,Selective Fight 1| Room PF Room 6| Round 2,1
+77,Vitalii Lisovskyi,United Kingdom,1,Opp,8.0,Khoi Le Nguyen Nguyen,14. Ice clock,2,Selective Fight 1| Room PF Room 6| Round 2,1
+78,Aleksandr Svetlichnyi,Sweden,1,Rep,5.0,Rebecka Mårtensson,16. Graphite lamp,2,Selective Fight 1| Room PF Room 4| Round 2,0
+79,Aleksandr Svetlichnyi,France,1,Opp,4.0,Julien Herbelot,16. Graphite lamp,2,Selective Fight 1| Room PF Room 4| Round 2,0
+80,Pierre-Louis de Assis,Sweden,1,Rep,7.0,Rebecka Mårtensson,16. Graphite lamp,2,Selective Fight 1| Room PF Room 4| Round 2,0
+81,Pierre-Louis de Assis,France,1,Opp,7.0,Julien Herbelot,16. Graphite lamp,2,Selective Fight 1| Room PF Room 4| Round 2,0
+82,Riccardo Fabbricatore,Sweden,1,Rep,5.0,Rebecka Mårtensson,16. Graphite lamp,2,Selective Fight 1| Room PF Room 4| Round 2,0
+83,Riccardo Fabbricatore,France,1,Opp,6.0,Julien Herbelot,16. Graphite lamp,2,Selective Fight 1| Room PF Room 4| Round 2,0
+84,U. Pyrohova,Sweden,1,Rep,7.0,Rebecka Mårtensson,16. Graphite lamp,2,Selective Fight 1| Room PF Room 4| Round 2,0
+85,U. Pyrohova,France,1,Opp,5.0,Julien Herbelot,16. Graphite lamp,2,Selective Fight 1| Room PF Room 4| Round 2,0
+86,Bohdan Bidenko,Brazil,1,Rep,8.0,Felipe Mazzi,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2,5
+87,Bohdan Bidenko,Russia,1,Opp,9.0,Ivan Polonik,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2,5
+88,Evgenii Glushkov,Brazil,1,Rep,7.0,Felipe Mazzi,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2,5
+89,Evgenii Glushkov,Russia,1,Opp,7.0,Ivan Polonik,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2,5
+90,Geraldine Feraud,Brazil,1,Rep,7.0,Felipe Mazzi,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2,5
+91,Geraldine Feraud,Russia,1,Opp,8.0,Ivan Polonik,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2,5
+92,Ivan Rojkov,Brazil,1,Rep,7.0,Felipe Mazzi,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2,5
+93,Ivan Rojkov,Russia,1,Opp,5.0,Ivan Polonik,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2,5
+94,Åke Andersson,Brazil,1,Rep,5.0,Felipe Mazzi,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2,5
+95,Åke Andersson,Russia,1,Opp,7.0,Ivan Polonik,14. Ice clock,2,Selective Fight 1| Room PF Room 1| Round 2,5
+96,Alexander Nozik,Germany,1,Rep,9.0,Dominik Döllerer,14. Ice clock,2,Selective Fight 1| Room PF Room 5| Round 2,2
+97,Alexander Nozik,Pakistan,1,Opp,6.0,Hamna Aslam,14. Ice clock,2,Selective Fight 1| Room PF Room 5| Round 2,2
+98,Amaury Barral,Germany,1,Rep,4.0,Dominik Döllerer,14. Ice clock,2,Selective Fight 1| Room PF Room 5| Round 2,2
+99,Amaury Barral,Pakistan,1,Opp,6.0,Hamna Aslam,14. Ice clock,2,Selective Fight 1| Room PF Room 5| Round 2,2
+100,Leandro Tessler,Germany,1,Rep,7.0,Dominik Döllerer,14. Ice clock,2,Selective Fight 1| Room PF Room 5| Round 2,2
+101,Leandro Tessler,Pakistan,1,Opp,6.0,Hamna Aslam,14. Ice clock,2,Selective Fight 1| Room PF Room 5| Round 2,2
+102,Stanislav Vinogradov,Germany,1,Rep,7.0,Dominik Döllerer,14. Ice clock,2,Selective Fight 1| Room PF Room 5| Round 2,2
+103,Stanislav Vinogradov,Pakistan,1,Opp,7.0,Hamna Aslam,14. Ice clock,2,Selective Fight 1| Room PF Room 5| Round 2,2
+104,Aakash Bhat,Switzerland,2,Rep,6.0,Bosch Maximilian,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 3| Round 1,6
+105,Aakash Bhat,United Kingdom,2,Opp,7.0,Yansheng Zhang,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 3| Round 1,6
+106,Dmytro Oliinychenko,Switzerland,2,Rep,6.0,Bosch Maximilian,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 3| Round 1,6
+107,Dmytro Oliinychenko,United Kingdom,2,Opp,7.0,Yansheng Zhang,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 3| Round 1,6
+108,Georgy Fedorov,Switzerland,2,Rep,7.0,Bosch Maximilian,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 3| Round 1,6
+109,Georgy Fedorov,United Kingdom,2,Opp,8.0,Yansheng Zhang,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 3| Round 1,6
+110,Leandro Tessler,Switzerland,2,Rep,7.0,Bosch Maximilian,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 3| Round 1,6
+111,Leandro Tessler,United Kingdom,2,Opp,7.0,Yansheng Zhang,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 3| Round 1,6
+112,Aakash Bhat,United Kingdom,2,Rep,2.0,Aneesh Agarwal,5. Distant thunder,2,Selective Fight 2| Room PF Room 3| Round 2,6
+113,Aakash Bhat,Switzerland,2,Opp,5.0,Brockmeyer Frederike,5. Distant thunder,2,Selective Fight 2| Room PF Room 3| Round 2,6
+114,Dmytro Oliinychenko,United Kingdom,2,Rep,5.0,Aneesh Agarwal,5. Distant thunder,2,Selective Fight 2| Room PF Room 3| Round 2,6
+115,Dmytro Oliinychenko,Switzerland,2,Opp,8.0,Brockmeyer Frederike,5. Distant thunder,2,Selective Fight 2| Room PF Room 3| Round 2,6
+116,Georgy Fedorov,United Kingdom,2,Rep,6.0,Aneesh Agarwal,5. Distant thunder,2,Selective Fight 2| Room PF Room 3| Round 2,6
+117,Georgy Fedorov,Switzerland,2,Opp,7.0,Brockmeyer Frederike,5. Distant thunder,2,Selective Fight 2| Room PF Room 3| Round 2,6
+118,Leandro Tessler,United Kingdom,2,Rep,5.0,Aneesh Agarwal,5. Distant thunder,2,Selective Fight 2| Room PF Room 3| Round 2,6
+119,Leandro Tessler,Switzerland,2,Opp,6.0,Brockmeyer Frederike,5. Distant thunder,2,Selective Fight 2| Room PF Room 3| Round 2,6
+120,Aleksandr Svetlichnyi,Pakistan,2,Rep,3.0,Qasim Muhammad,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 5| Round 1,7
+121,Aleksandr Svetlichnyi,Slovenia,2,Opp,6.0,Vitja Beltram,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 5| Round 1,7
+122,Duy Nguyen Van,Pakistan,2,Rep,6.0,Qasim Muhammad,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 5| Round 1,7
+123,Duy Nguyen Van,Slovenia,2,Opp,6.0,Vitja Beltram,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 5| Round 1,7
+124,Ivan Rojkov,Pakistan,2,Rep,6.0,Qasim Muhammad,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 5| Round 1,7
+125,Ivan Rojkov,Slovenia,2,Opp,8.0,Vitja Beltram,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 5| Round 1,7
+126,Pierre-Louis de Assis,Pakistan,2,Rep,5.0,Qasim Muhammad,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 5| Round 1,7
+127,Pierre-Louis de Assis,Slovenia,2,Opp,6.0,Vitja Beltram,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 5| Round 1,7
+128,Aleksandr Svetlichnyi,Slovenia,2,Rep,5.0,Maks Repše,8. Heavy parachute,2,Selective Fight 2| Room PF Room 5| Round 2,7
+129,Aleksandr Svetlichnyi,Pakistan,2,Opp,6.0,Sabah Ud Din Ahmad,8. Heavy parachute,2,Selective Fight 2| Room PF Room 5| Round 2,7
+130,Duy Nguyen Van,Slovenia,2,Rep,7.0,Maks Repše,8. Heavy parachute,2,Selective Fight 2| Room PF Room 5| Round 2,7
+131,Duy Nguyen Van,Pakistan,2,Opp,6.0,Sabah Ud Din Ahmad,8. Heavy parachute,2,Selective Fight 2| Room PF Room 5| Round 2,7
+132,Ivan Rojkov,Slovenia,2,Rep,4.0,Maks Repše,8. Heavy parachute,2,Selective Fight 2| Room PF Room 5| Round 2,7
+133,Ivan Rojkov,Pakistan,2,Opp,5.0,Sabah Ud Din Ahmad,8. Heavy parachute,2,Selective Fight 2| Room PF Room 5| Round 2,7
+134,Pierre-Louis de Assis,Slovenia,2,Rep,5.0,Maks Repše,8. Heavy parachute,2,Selective Fight 2| Room PF Room 5| Round 2,7
+135,Pierre-Louis de Assis,Pakistan,2,Opp,6.0,Sabah Ud Din Ahmad,8. Heavy parachute,2,Selective Fight 2| Room PF Room 5| Round 2,7
+136,Aeysha Khalique,Sweden,2,Rep,6.0,Rebecka Mårtensson,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 6| Round 1,8
+137,Aeysha Khalique,Ukraine,2,Opp,9.0,Oleh Ivashtenko,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 6| Round 1,8
+138,Claire Marrache,Sweden,2,Rep,5.0,Rebecka Mårtensson,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 6| Round 1,8
+139,Claire Marrache,Ukraine,2,Opp,5.0,Oleh Ivashtenko,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 6| Round 1,8
+140,David Collomb,Sweden,2,Rep,6.0,Rebecka Mårtensson,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 6| Round 1,8
+141,David Collomb,Ukraine,2,Opp,8.0,Oleh Ivashtenko,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 6| Round 1,8
+142,Nikolay Lysenko,Sweden,2,Rep,7.0,Rebecka Mårtensson,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 6| Round 1,8
+143,Nikolay Lysenko,Ukraine,2,Opp,7.0,Oleh Ivashtenko,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 6| Round 1,8
+144,Bohdan Bidenko,Colombia,2,Rep,6.0,Jose Betancourt,13. Branching light,1,Selective Fight 2| Room PF Room 2| Round 1,9
+145,Bohdan Bidenko,Germany,2,Opp,7.0,Ivan Kokhanovskyi,13. Branching light,1,Selective Fight 2| Room PF Room 2| Round 1,9
+146,Stanislav Vinogradov,Colombia,2,Rep,7.0,Jose Betancourt,13. Branching light,1,Selective Fight 2| Room PF Room 2| Round 1,9
+147,Stanislav Vinogradov,Germany,2,Opp,8.0,Ivan Kokhanovskyi,13. Branching light,1,Selective Fight 2| Room PF Room 2| Round 1,9
+148,Vitalii Lisovskyi,Colombia,2,Rep,7.0,Jose Betancourt,13. Branching light,1,Selective Fight 2| Room PF Room 2| Round 1,9
+149,Vitalii Lisovskyi,Germany,2,Opp,8.0,Ivan Kokhanovskyi,13. Branching light,1,Selective Fight 2| Room PF Room 2| Round 1,9
+150,Åke Andersson,Colombia,2,Rep,4.0,Jose Betancourt,13. Branching light,1,Selective Fight 2| Room PF Room 2| Round 1,9
+151,Åke Andersson,Germany,2,Opp,5.0,Ivan Kokhanovskyi,13. Branching light,1,Selective Fight 2| Room PF Room 2| Round 1,9
+152,Amaury Barral,USA,2,Rep,5.0,Miguel Ceja,17. Quantum-droplet analogy,1,Selective Fight 2| Room PF Room 4| Round 1,10
+153,Amaury Barral,Russia,2,Opp,9.0,Ivan Polonik,17. Quantum-droplet analogy,1,Selective Fight 2| Room PF Room 4| Round 1,10
+154,Riccardo Fabbricatore,USA,2,Rep,6.0,Miguel Ceja,17. Quantum-droplet analogy,1,Selective Fight 2| Room PF Room 4| Round 1,10
+155,Riccardo Fabbricatore,Russia,2,Opp,8.0,Ivan Polonik,17. Quantum-droplet analogy,1,Selective Fight 2| Room PF Room 4| Round 1,10
+156,U. Pyrohova,USA,2,Rep,4.0,Miguel Ceja,17. Quantum-droplet analogy,1,Selective Fight 2| Room PF Room 4| Round 1,10
+157,U. Pyrohova,Russia,2,Opp,7.0,Ivan Polonik,17. Quantum-droplet analogy,1,Selective Fight 2| Room PF Room 4| Round 1,10
+158,Zakhar Maizelis,USA,2,Rep,4.0,Miguel Ceja,17. Quantum-droplet analogy,1,Selective Fight 2| Room PF Room 4| Round 1,10
+159,Zakhar Maizelis,Russia,2,Opp,7.0,Ivan Polonik,17. Quantum-droplet analogy,1,Selective Fight 2| Room PF Room 4| Round 1,10
+160,Aleksei Lukianchuk,France,2,Rep,6.0,Emile Pangburn,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1,11
+161,Aleksei Lukianchuk,Brazil,2,Opp,7.0,Leonardo Falabella,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1,11
+162,Alexander Nozik,France,2,Rep,8.0,Emile Pangburn,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1,11
+163,Alexander Nozik,Brazil,2,Opp,6.0,Leonardo Falabella,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1,11
+164,Jürgen Durst,France,2,Rep,7.0,Emile Pangburn,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1,11
+165,Jürgen Durst,Brazil,2,Opp,7.0,Leonardo Falabella,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1,11
+166,Severian Gvasaliya,France,2,Rep,7.0,Emile Pangburn,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1,11
+167,Severian Gvasaliya,Brazil,2,Opp,8.0,Leonardo Falabella,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1,11
+168,Vladimir Vanovsky,France,2,Rep,7.0,Emile Pangburn,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1,11
+169,Vladimir Vanovsky,Brazil,2,Opp,8.0,Leonardo Falabella,15. Burning bottle cutter,1,Selective Fight 2| Room PF Room 1| Round 1,11
+170,Aleksei Lukianchuk,Brazil,2,Rep,4.0,Anderson Vulto,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2,11
+171,Aleksei Lukianchuk,France,2,Opp,8.0,Emile Pangburn,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2,11
+172,Alexander Nozik,Brazil,2,Rep,4.0,Anderson Vulto,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2,11
+173,Alexander Nozik,France,2,Opp,7.0,Emile Pangburn,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2,11
+174,Jürgen Durst,Brazil,2,Rep,7.0,Anderson Vulto,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2,11
+175,Jürgen Durst,France,2,Opp,6.0,Emile Pangburn,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2,11
+176,Severian Gvasaliya,Brazil,2,Rep,7.0,Anderson Vulto,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2,11
+177,Severian Gvasaliya,France,2,Opp,8.0,Emile Pangburn,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2,11
+178,Vladimir Vanovsky,Brazil,2,Rep,7.0,Anderson Vulto,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2,11
+179,Vladimir Vanovsky,France,2,Opp,7.0,Emile Pangburn,10. Rolling pasta,2,Selective Fight 2| Room PF Room 1| Round 2,11
+180,Amaury Barral,Russia,2,Rep,4.0,Artem Sukhov,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 4| Round 2,10
+181,Amaury Barral,USA,2,Opp,6.0,Bingxu Meng,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 4| Round 2,10
+182,Riccardo Fabbricatore,Russia,2,Rep,8.0,Artem Sukhov,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 4| Round 2,10
+183,Riccardo Fabbricatore,USA,2,Opp,9.0,Bingxu Meng,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 4| Round 2,10
+184,U. Pyrohova,Russia,2,Rep,8.0,Artem Sukhov,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 4| Round 2,10
+185,U. Pyrohova,USA,2,Opp,7.0,Bingxu Meng,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 4| Round 2,10
+186,Zakhar Maizelis,Russia,2,Rep,10.0,Artem Sukhov,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 4| Round 2,10
+187,Zakhar Maizelis,USA,2,Opp,7.0,Bingxu Meng,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 4| Round 2,10
+188,Bohdan Bidenko,Germany,2,Rep,7.0,Ivan Kokhanovskyi,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 2| Round 2,9
+189,Bohdan Bidenko,Colombia,2,Opp,6.0,Christian David Forero Pulido,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 2| Round 2,9
+190,Stanislav Vinogradov,Germany,2,Rep,8.0,Ivan Kokhanovskyi,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 2| Round 2,9
+191,Stanislav Vinogradov,Colombia,2,Opp,7.0,Christian David Forero Pulido,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 2| Round 2,9
+192,Vitalii Lisovskyi,Germany,2,Rep,8.0,Ivan Kokhanovskyi,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 2| Round 2,9
+193,Vitalii Lisovskyi,Colombia,2,Opp,6.0,Christian David Forero Pulido,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 2| Round 2,9
+194,Åke Andersson,Germany,2,Rep,7.0,Ivan Kokhanovskyi,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 2| Round 2,9
+195,Åke Andersson,Colombia,2,Opp,6.0,Christian David Forero Pulido,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 2| Round 2,9
+196,Federico Serrano,Ukraine,3,Rep,5.0,Semen Kononenko,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 1| Round 1,12
+197,Federico Serrano,Brazil,3,Opp,8.0,Felipe Mazzi,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 1| Round 1,12
+198,Ivan Rojkov,Ukraine,3,Rep,7.0,Semen Kononenko,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 1| Round 1,12
+199,Ivan Rojkov,Brazil,3,Opp,7.0,Felipe Mazzi,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 1| Round 1,12
+200,Nikolay Lysenko,Ukraine,3,Rep,7.0,Semen Kononenko,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 1| Round 1,12
+201,Nikolay Lysenko,Brazil,3,Opp,8.0,Felipe Mazzi,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 1| Round 1,12
+202,Stanislav Vinogradov,Ukraine,3,Rep,8.0,Semen Kononenko,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 1| Round 1,12
+203,Stanislav Vinogradov,Brazil,3,Opp,9.0,Felipe Mazzi,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 1| Round 1,12
+204,Aakash Bhat,Slovenia,3,Rep,7.0,Vitja Beltram,14. Ice clock,1,Selective Fight 3| Room PF Room 2| Round 1,13
+205,Aakash Bhat,Sweden,3,Opp,8.0,Rebecka Mårtensson,14. Ice clock,1,Selective Fight 3| Room PF Room 2| Round 1,13
+206,Bohdan Bidenko,Slovenia,3,Rep,5.0,Vitja Beltram,14. Ice clock,1,Selective Fight 3| Room PF Room 2| Round 1,13
+207,Bohdan Bidenko,Sweden,3,Opp,7.0,Rebecka Mårtensson,14. Ice clock,1,Selective Fight 3| Room PF Room 2| Round 1,13
+208,Evgenii Glushkov,Slovenia,3,Rep,7.0,Vitja Beltram,14. Ice clock,1,Selective Fight 3| Room PF Room 2| Round 1,13
+209,Evgenii Glushkov,Sweden,3,Opp,7.0,Rebecka Mårtensson,14. Ice clock,1,Selective Fight 3| Room PF Room 2| Round 1,13
+210,Sonia Natale,Slovenia,3,Rep,6.0,Vitja Beltram,14. Ice clock,1,Selective Fight 3| Room PF Room 2| Round 1,13
+211,Sonia Natale,Sweden,3,Opp,8.0,Rebecka Mårtensson,14. Ice clock,1,Selective Fight 3| Room PF Room 2| Round 1,13
+212,Alexander Nozik,United Kingdom,3,Rep,8.0,Aneesh Agarwal,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1,14
+213,Alexander Nozik,Colombia,3,Opp,8.0,Jose Betancourt,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1,14
+214,Claire Marrache,United Kingdom,3,Rep,6.0,Aneesh Agarwal,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1,14
+215,Claire Marrache,Colombia,3,Opp,8.0,Jose Betancourt,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1,14
+216,Sebastian Fava,United Kingdom,3,Rep,6.0,Aneesh Agarwal,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1,14
+217,Sebastian Fava,Colombia,3,Opp,9.0,Jose Betancourt,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1,14
+218,Vladimir Vanovsky,United Kingdom,3,Rep,7.0,Aneesh Agarwal,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1,14
+219,Vladimir Vanovsky,Colombia,3,Opp,8.0,Jose Betancourt,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1,14
+220,Åke Andersson,United Kingdom,3,Rep,4.0,Aneesh Agarwal,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1,14
+221,Åke Andersson,Colombia,3,Opp,7.0,Jose Betancourt,11. The spinning washer,1,Selective Fight 3| Room PF Room 5| Round 1,14
+222,Aleksei Malyshev,Switzerland,3,Rep,7.0,Jaeger Alexander,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 4| Round 1,15
+223,Aleksei Malyshev,USA,3,Opp,7.0,Nicolas Albiani,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 4| Round 1,15
+224,Mark Bochkov,Switzerland,3,Rep,6.0,Jaeger Alexander,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 4| Round 1,15
+225,Mark Bochkov,USA,3,Opp,8.0,Nicolas Albiani,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 4| Round 1,15
+226,Pierre-Louis de Assis,Switzerland,3,Rep,8.0,Jaeger Alexander,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 4| Round 1,15
+227,Pierre-Louis de Assis,USA,3,Opp,8.0,Nicolas Albiani,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 4| Round 1,15
+228,Vitalii Lisovskyi,Switzerland,3,Rep,8.0,Jaeger Alexander,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 4| Round 1,15
+229,Vitalii Lisovskyi,USA,3,Opp,8.0,Nicolas Albiani,2. Pop-Pop away,1,Selective Fight 3| Room PF Room 4| Round 1,15
+230,Federico Serrano,Brazil,3,Rep,9.0,Felipe Mazzi,11. The spinning washer,2,Selective Fight 3| Room PF Room 1| Round 2,12
+231,Federico Serrano,Ukraine,3,Opp,8.0,Hryhorii Ovcharenko,11. The spinning washer,2,Selective Fight 3| Room PF Room 1| Round 2,12
+232,Ivan Rojkov,Brazil,3,Rep,8.0,Felipe Mazzi,11. The spinning washer,2,Selective Fight 3| Room PF Room 1| Round 2,12
+233,Ivan Rojkov,Ukraine,3,Opp,8.0,Hryhorii Ovcharenko,11. The spinning washer,2,Selective Fight 3| Room PF Room 1| Round 2,12
+234,Nikolay Lysenko,Brazil,3,Rep,7.0,Felipe Mazzi,11. The spinning washer,2,Selective Fight 3| Room PF Room 1| Round 2,12
+235,Nikolay Lysenko,Ukraine,3,Opp,7.0,Hryhorii Ovcharenko,11. The spinning washer,2,Selective Fight 3| Room PF Room 1| Round 2,12
+236,Stanislav Vinogradov,Brazil,3,Rep,7.0,Felipe Mazzi,11. The spinning washer,2,Selective Fight 3| Room PF Room 1| Round 2,12
+237,Stanislav Vinogradov,Ukraine,3,Opp,7.0,Hryhorii Ovcharenko,11. The spinning washer,2,Selective Fight 3| Room PF Room 1| Round 2,12
+238,Aleksandr Svetlichnyi,France,3,Rep,7.0,Baptiste Monge,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1,16
+239,Aleksandr Svetlichnyi,Germany,3,Opp,7.0,Ivan Kokhanovskyi,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1,16
+240,Dmytro Oliinychenko,France,3,Rep,7.0,Baptiste Monge,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1,16
+241,Dmytro Oliinychenko,Germany,3,Opp,7.0,Ivan Kokhanovskyi,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1,16
+242,Georgy Fedorov,France,3,Rep,8.0,Baptiste Monge,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1,16
+243,Georgy Fedorov,Germany,3,Opp,7.0,Ivan Kokhanovskyi,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1,16
+244,Mathieu Suter,France,3,Rep,7.0,Baptiste Monge,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1,16
+245,Mathieu Suter,Germany,3,Opp,7.0,Ivan Kokhanovskyi,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1,16
+246,Zakhar Maizelis,France,3,Rep,7.0,Baptiste Monge,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1,16
+247,Zakhar Maizelis,Germany,3,Opp,7.0,Ivan Kokhanovskyi,11. The spinning washer,1,Selective Fight 3| Room PF Room 6| Round 1,16
+248,Aakash Bhat,Sweden,3,Rep,8.0,Viktor Sundström,10. Rolling pasta,2,Selective Fight 3| Room PF Room 2| Round 2,13
+249,Aakash Bhat,Slovenia,3,Opp,8.0,Aleš Globočnik,10. Rolling pasta,2,Selective Fight 3| Room PF Room 2| Round 2,13
+250,Bohdan Bidenko,Sweden,3,Rep,5.0,Viktor Sundström,10. Rolling pasta,2,Selective Fight 3| Room PF Room 2| Round 2,13
+251,Bohdan Bidenko,Slovenia,3,Opp,6.0,Aleš Globočnik,10. Rolling pasta,2,Selective Fight 3| Room PF Room 2| Round 2,13
+252,Evgenii Glushkov,Sweden,3,Rep,8.0,Viktor Sundström,10. Rolling pasta,2,Selective Fight 3| Room PF Room 2| Round 2,13
+253,Evgenii Glushkov,Slovenia,3,Opp,8.0,Aleš Globočnik,10. Rolling pasta,2,Selective Fight 3| Room PF Room 2| Round 2,13
+254,Sonia Natale,Sweden,3,Rep,6.0,Viktor Sundström,10. Rolling pasta,2,Selective Fight 3| Room PF Room 2| Round 2,13
+255,Sonia Natale,Slovenia,3,Opp,7.0,Aleš Globočnik,10. Rolling pasta,2,Selective Fight 3| Room PF Room 2| Round 2,13
+256,Aleksei Malyshev,USA,3,Rep,4.0,Shantanu Kadam,10. Rolling pasta,2,Selective Fight 3| Room PF Room 4| Round 2,15
+257,Aleksei Malyshev,Switzerland,3,Opp,5.0,Grunwald Simon,10. Rolling pasta,2,Selective Fight 3| Room PF Room 4| Round 2,15
+258,Mark Bochkov,USA,3,Rep,4.0,Shantanu Kadam,10. Rolling pasta,2,Selective Fight 3| Room PF Room 4| Round 2,15
+259,Mark Bochkov,Switzerland,3,Opp,7.0,Grunwald Simon,10. Rolling pasta,2,Selective Fight 3| Room PF Room 4| Round 2,15
+260,Pierre-Louis de Assis,USA,3,Rep,3.0,Shantanu Kadam,10. Rolling pasta,2,Selective Fight 3| Room PF Room 4| Round 2,15
+261,Pierre-Louis de Assis,Switzerland,3,Opp,4.0,Grunwald Simon,10. Rolling pasta,2,Selective Fight 3| Room PF Room 4| Round 2,15
+262,Vitalii Lisovskyi,USA,3,Rep,7.0,Shantanu Kadam,10. Rolling pasta,2,Selective Fight 3| Room PF Room 4| Round 2,15
+263,Vitalii Lisovskyi,Switzerland,3,Opp,7.0,Grunwald Simon,10. Rolling pasta,2,Selective Fight 3| Room PF Room 4| Round 2,15
+264,Alexander Nozik,Colombia,3,Rep,8.0,Felipe Giraldo Grueso,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2,14
+265,Alexander Nozik,United Kingdom,3,Opp,8.0,Yansheng Zhang,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2,14
+266,Claire Marrache,Colombia,3,Rep,7.0,Felipe Giraldo Grueso,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2,14
+267,Claire Marrache,United Kingdom,3,Opp,7.0,Yansheng Zhang,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2,14
+268,Sebastian Fava,Colombia,3,Rep,6.0,Felipe Giraldo Grueso,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2,14
+269,Sebastian Fava,United Kingdom,3,Opp,7.0,Yansheng Zhang,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2,14
+270,Vladimir Vanovsky,Colombia,3,Rep,8.0,Felipe Giraldo Grueso,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2,14
+271,Vladimir Vanovsky,United Kingdom,3,Opp,8.0,Yansheng Zhang,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2,14
+272,Åke Andersson,Colombia,3,Rep,6.0,Felipe Giraldo Grueso,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2,14
+273,Åke Andersson,United Kingdom,3,Opp,10.0,Yansheng Zhang,12. Metallic forest,2,Selective Fight 3| Room PF Room 5| Round 2,14
+274,Aleksei Lukianchuk,Pakistan,3,Rep,5.0,Sabah Ud Din Ahmad,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1,17
+275,Aleksei Lukianchuk,Russia,3,Opp,8.0,Ivan Polonik,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1,17
+276,Jürgen Durst,Pakistan,3,Rep,4.0,Sabah Ud Din Ahmad,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1,17
+277,Jürgen Durst,Russia,3,Opp,7.0,Ivan Polonik,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1,17
+278,Leandro Tessler,Pakistan,3,Rep,4.0,Sabah Ud Din Ahmad,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1,17
+279,Leandro Tessler,Russia,3,Opp,7.0,Ivan Polonik,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1,17
+280,Severian Gvasaliya,Pakistan,3,Rep,6.0,Sabah Ud Din Ahmad,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1,17
+281,Severian Gvasaliya,Russia,3,Opp,6.0,Ivan Polonik,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1,17
+282,Tarek Ben,Pakistan,3,Rep,5.0,Sabah Ud Din Ahmad,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1,17
+283,Tarek Ben,Russia,3,Opp,6.0,Ivan Polonik,1. Nuclear mousetraps,1,Selective Fight 3| Room PF Room 3| Round 1,17
+284,Aleksei Lukianchuk,Russia,3,Rep,9.0,Ivan Polonik,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2,17
+285,Aleksei Lukianchuk,Pakistan,3,Opp,6.0,Maryam Ahsan,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2,17
+286,Jürgen Durst,Russia,3,Rep,7.0,Ivan Polonik,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2,17
+287,Jürgen Durst,Pakistan,3,Opp,5.0,Maryam Ahsan,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2,17
+288,Leandro Tessler,Russia,3,Rep,8.0,Ivan Polonik,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2,17
+289,Leandro Tessler,Pakistan,3,Opp,4.0,Maryam Ahsan,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2,17
+290,Severian Gvasaliya,Russia,3,Rep,9.0,Ivan Polonik,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2,17
+291,Severian Gvasaliya,Pakistan,3,Opp,6.0,Maryam Ahsan,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2,17
+292,Tarek Ben,Russia,3,Rep,9.0,Ivan Polonik,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2,17
+293,Tarek Ben,Pakistan,3,Opp,7.0,Maryam Ahsan,11. The spinning washer,2,Selective Fight 3| Room PF Room 3| Round 2,17
+294,Aleksandr Svetlichnyi,Germany,3,Rep,6.0,Dmytro Melnichenko,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2,16
+295,Aleksandr Svetlichnyi,France,3,Opp,5.0,Emile Pangburn,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2,16
+296,Dmytro Oliinychenko,Germany,3,Rep,5.0,Dmytro Melnichenko,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2,16
+297,Dmytro Oliinychenko,France,3,Opp,6.0,Emile Pangburn,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2,16
+298,Georgy Fedorov,Germany,3,Rep,5.0,Dmytro Melnichenko,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2,16
+299,Georgy Fedorov,France,3,Opp,4.0,Emile Pangburn,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2,16
+300,Mathieu Suter,Germany,3,Rep,4.0,Dmytro Melnichenko,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2,16
+301,Mathieu Suter,France,3,Opp,6.0,Emile Pangburn,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2,16
+302,Zakhar Maizelis,Germany,3,Rep,5.0,Dmytro Melnichenko,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2,16
+303,Zakhar Maizelis,France,3,Opp,7.0,Emile Pangburn,8. Heavy parachute,2,Selective Fight 3| Room PF Room 6| Round 2,16
+304,Aeysha Khalique,Ukraine,2,Rep,8.0,Hryhorii Ovcharenko,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 6| Round 2,8
+305,Aeysha Khalique,Sweden,2,Opp,7.0,Viktor Sundström,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 6| Round 2,8
+306,Claire Marrache,Ukraine,2,Rep,7.0,Hryhorii Ovcharenko,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 6| Round 2,8
+307,Claire Marrache,Sweden,2,Opp,7.0,Viktor Sundström,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 6| Round 2,8
+308,David Collomb,Ukraine,2,Rep,8.0,Hryhorii Ovcharenko,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 6| Round 2,8
+309,David Collomb,Sweden,2,Opp,7.0,Viktor Sundström,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 6| Round 2,8
+310,Nikolay Lysenko,Ukraine,2,Rep,8.0,Hryhorii Ovcharenko,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 6| Round 2,8
+311,Nikolay Lysenko,Sweden,2,Opp,9.0,Viktor Sundström,4.  Hydraulic jump white hole,2,Selective Fight 2| Room PF Room 6| Round 2,8
+312,Aleksandr Svetlichnyi,Slovenia,4,Rep,4.0,Aleš Globočnik,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1,18
+313,Aleksandr Svetlichnyi,Germany,4,Opp,7.0,Ivan Kokhanovskyi,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1,18
+314,Aleksei Malyshev,Slovenia,4,Rep,7.0,Aleš Globočnik,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1,18
+315,Aleksei Malyshev,Germany,4,Opp,6.0,Ivan Kokhanovskyi,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1,18
+316,Tarek Ben,Slovenia,4,Rep,4.0,Aleš Globočnik,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1,18
+317,Tarek Ben,Germany,4,Opp,4.0,Ivan Kokhanovskyi,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1,18
+318,U. Pyrohova,Slovenia,4,Rep,5.0,Aleš Globočnik,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1,18
+319,U. Pyrohova,Germany,4,Opp,8.0,Ivan Kokhanovskyi,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1,18
+320,Zakhar Maizelis,Slovenia,4,Rep,5.0,Aleš Globočnik,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1,18
+321,Zakhar Maizelis,Germany,4,Opp,7.0,Ivan Kokhanovskyi,16. Graphite lamp,1,Selective Fight 4| Room PF Room 4| Round 1,18
+322,Alberto Rolandi,United Kingdom,4,Rep,9.0,Jonathan Chee Xian Kuan,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1,19
+323,Alberto Rolandi,Ukraine,4,Opp,7.0,Oleh Ivashtenko,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1,19
+324,Aleksandr Berezutskii,United Kingdom,4,Rep,7.0,Jonathan Chee Xian Kuan,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1,19
+325,Aleksandr Berezutskii,Ukraine,4,Opp,7.0,Oleh Ivashtenko,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1,19
+326,Alexander Nozik,United Kingdom,4,Rep,4.0,Jonathan Chee Xian Kuan,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1,19
+327,Alexander Nozik,Ukraine,4,Opp,7.0,Oleh Ivashtenko,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1,19
+328,Jürgen Durst,United Kingdom,4,Rep,8.0,Jonathan Chee Xian Kuan,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1,19
+329,Jürgen Durst,Ukraine,4,Opp,8.0,Oleh Ivashtenko,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1,19
+330,Åke Andersson,United Kingdom,4,Rep,5.0,Jonathan Chee Xian Kuan,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1,19
+331,Åke Andersson,Ukraine,4,Opp,6.0,Oleh Ivashtenko,13. Branching light,1,Selective Fight 4| Room PF Room 3| Round 1,19
+332,Amaury Barral,Colombia,4,Rep,7.0,Santiago Higuera,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1,20
+333,Amaury Barral,Switzerland,4,Opp,7.0,Grunwald Simon,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1,20
+334,Duy Nguyen Van,Colombia,4,Rep,6.0,Santiago Higuera,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1,20
+335,Duy Nguyen Van,Switzerland,4,Opp,6.0,Grunwald Simon,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1,20
+336,Roman Vydro,Colombia,4,Rep,6.0,Santiago Higuera,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1,20
+337,Roman Vydro,Switzerland,4,Opp,8.0,Grunwald Simon,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1,20
+338,Stanislav Vinogradov,Colombia,4,Rep,7.0,Santiago Higuera,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1,20
+339,Stanislav Vinogradov,Switzerland,4,Opp,8.0,Grunwald Simon,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1,20
+340,Vladimir Vanovsky,Colombia,4,Rep,7.0,Santiago Higuera,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1,20
+341,Vladimir Vanovsky,Switzerland,4,Opp,8.0,Grunwald Simon,7. Vegetable electricity,1,Selective Fight 4| Room PF Room 6| Round 1,20
+342,Aeysha Khalique,France,4,Rep,9.0,Amazigh Ouzriat,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1,21
+343,Aeysha Khalique,Russia,4,Opp,8.0,Ivan Polonik,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1,21
+344,Federico Serrano,France,4,Rep,7.0,Amazigh Ouzriat,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1,21
+345,Federico Serrano,Russia,4,Opp,6.0,Ivan Polonik,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1,21
+346,Mathieu Suter,France,4,Rep,7.0,Amazigh Ouzriat,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1,21
+347,Mathieu Suter,Russia,4,Opp,8.0,Ivan Polonik,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1,21
+348,Platon Dmitriyev,France,4,Rep,8.0,Amazigh Ouzriat,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1,21
+349,Platon Dmitriyev,Russia,4,Opp,8.0,Ivan Polonik,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1,21
+350,Sonia Natale,France,4,Rep,8.0,Amazigh Ouzriat,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1,21
+351,Sonia Natale,Russia,4,Opp,6.0,Ivan Polonik,8. Heavy parachute,1,Selective Fight 4| Room PF Room 5| Round 1,21
+352,Aleksandr Svetlichnyi,Germany,4,Rep,5.0,Dominik Döllerer,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2,18
+353,Aleksandr Svetlichnyi,Slovenia,4,Opp,5.0,Maj Mejak,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2,18
+354,Aleksei Malyshev,Germany,4,Rep,7.0,Dominik Döllerer,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2,18
+355,Aleksei Malyshev,Slovenia,4,Opp,6.0,Maj Mejak,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2,18
+356,Tarek Ben,Germany,4,Rep,7.0,Dominik Döllerer,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2,18
+357,Tarek Ben,Slovenia,4,Opp,8.0,Maj Mejak,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2,18
+358,U. Pyrohova,Germany,4,Rep,5.0,Dominik Döllerer,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2,18
+359,U. Pyrohova,Slovenia,4,Opp,7.0,Maj Mejak,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2,18
+360,Zakhar Maizelis,Germany,4,Rep,5.0,Dominik Döllerer,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2,18
+361,Zakhar Maizelis,Slovenia,4,Opp,7.0,Maj Mejak,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 4| Round 2,18
+362,Aeysha Khalique,Russia,4,Rep,8.0,Maksim Kleimenov,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2,21
+363,Aeysha Khalique,France,4,Opp,8.0,Emile Pangburn,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2,21
+364,Federico Serrano,Russia,4,Rep,9.0,Maksim Kleimenov,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2,21
+365,Federico Serrano,France,4,Opp,8.0,Emile Pangburn,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2,21
+366,Mathieu Suter,Russia,4,Rep,8.0,Maksim Kleimenov,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2,21
+367,Mathieu Suter,France,4,Opp,7.0,Emile Pangburn,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2,21
+368,Platon Dmitriyev,Russia,4,Rep,10.0,Maksim Kleimenov,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2,21
+369,Platon Dmitriyev,France,4,Opp,9.0,Emile Pangburn,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2,21
+370,Sonia Natale,Russia,4,Rep,8.0,Maksim Kleimenov,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2,21
+371,Sonia Natale,France,4,Opp,7.0,Emile Pangburn,6. The finger of death,2,Selective Fight 4| Room PF Room 5| Round 2,21
+372,Alberto Rolandi,Ukraine,4,Rep,8.0,Hryhorii Ovcharenko,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2,19
+373,Alberto Rolandi,United Kingdom,4,Opp,8.0,Yansheng Zhang,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2,19
+374,Aleksandr Berezutskii,Ukraine,4,Rep,8.0,Hryhorii Ovcharenko,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2,19
+375,Aleksandr Berezutskii,United Kingdom,4,Opp,8.0,Yansheng Zhang,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2,19
+376,Alexander Nozik,Ukraine,4,Rep,9.0,Hryhorii Ovcharenko,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2,19
+377,Alexander Nozik,United Kingdom,4,Opp,6.0,Yansheng Zhang,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2,19
+378,Jürgen Durst,Ukraine,4,Rep,8.0,Hryhorii Ovcharenko,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2,19
+379,Jürgen Durst,United Kingdom,4,Opp,6.0,Yansheng Zhang,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2,19
+380,Åke Andersson,Ukraine,4,Rep,6.0,Hryhorii Ovcharenko,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2,19
+381,Åke Andersson,United Kingdom,4,Opp,7.0,Yansheng Zhang,3. Dirty racing,2,Selective Fight 4| Room PF Room 3| Round 2,19
+382,Amaury Barral,Switzerland,4,Rep,8.0,Jaeger Alexander,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2,20
+383,Amaury Barral,Colombia,4,Opp,10.0,Jose Betancourt,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2,20
+384,Duy Nguyen Van,Switzerland,4,Rep,8.0,Jaeger Alexander,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2,20
+385,Duy Nguyen Van,Colombia,4,Opp,7.0,Jose Betancourt,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2,20
+386,Roman Vydro,Switzerland,4,Rep,7.0,Jaeger Alexander,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2,20
+387,Roman Vydro,Colombia,4,Opp,8.0,Jose Betancourt,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2,20
+388,Stanislav Vinogradov,Switzerland,4,Rep,5.0,Jaeger Alexander,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2,20
+389,Stanislav Vinogradov,Colombia,4,Opp,6.0,Jose Betancourt,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2,20
+390,Vladimir Vanovsky,Switzerland,4,Rep,5.0,Jaeger Alexander,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2,20
+391,Vladimir Vanovsky,Colombia,4,Opp,8.0,Jose Betancourt,1. Nuclear mousetraps,2,Selective Fight 4| Room PF Room 6| Round 2,20
+392,Bohdan Bidenko,Brazil,4,Rep,7.0,Leonardo FalabellaandMaria Carolina Volpato,4.  Hydraulic jump white hole,1,Selective Fight 4| Room PF Room 1| Round 1,22
+393,Bohdan Bidenko,Pakistan,4,Opp,7.0,Muhammad Anas Nasser,4.  Hydraulic jump white hole,1,Selective Fight 4| Room PF Room 1| Round 1,22
+394,Dmytro Oliinychenko,Brazil,4,Rep,8.0,Leonardo FalabellaandMaria Carolina Volpato,4.  Hydraulic jump white hole,1,Selective Fight 4| Room PF Room 1| Round 1,22
+395,Dmytro Oliinychenko,Pakistan,4,Opp,8.0,Muhammad Anas Nasser,4.  Hydraulic jump white hole,1,Selective Fight 4| Room PF Room 1| Round 1,22
+396,Georgy Fedorov,Brazil,4,Rep,7.0,Leonardo FalabellaandMaria Carolina Volpato,4.  Hydraulic jump white hole,1,Selective Fight 4| Room PF Room 1| Round 1,22
+397,Georgy Fedorov,Pakistan,4,Opp,7.0,Muhammad Anas Nasser,4.  Hydraulic jump white hole,1,Selective Fight 4| Room PF Room 1| Round 1,22
+398,Riccardo Fabbricatore,Brazil,4,Rep,5.0,Leonardo FalabellaandMaria Carolina Volpato,4.  Hydraulic jump white hole,1,Selective Fight 4| Room PF Room 1| Round 1,22
+399,Riccardo Fabbricatore,Pakistan,4,Opp,6.0,Muhammad Anas Nasser,4.  Hydraulic jump white hole,1,Selective Fight 4| Room PF Room 1| Round 1,22
+400,Aakash Bhat,USA,4,Rep,5.0,Bingxu Meng,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1,23
+401,Aakash Bhat,Sweden,4,Opp,6.0,Hugo Spencer,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1,23
+402,Aleksei Lukianchuk,USA,4,Rep,5.0,Bingxu Meng,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1,23
+403,Aleksei Lukianchuk,Sweden,4,Opp,7.0,Hugo Spencer,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1,23
+404,Leandro Tessler,USA,4,Rep,4.0,Bingxu Meng,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1,23
+405,Leandro Tessler,Sweden,4,Opp,6.0,Hugo Spencer,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1,23
+406,Nikolay Lysenko,USA,4,Rep,5.0,Bingxu Meng,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1,23
+407,Nikolay Lysenko,Sweden,4,Opp,8.0,Hugo Spencer,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1,23
+408,Vitalii Lisovskyi,USA,4,Rep,6.0,Bingxu Meng,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1,23
+409,Vitalii Lisovskyi,Sweden,4,Opp,8.0,Hugo Spencer,11. The spinning washer,1,Selective Fight 4| Room PF Room 2| Round 1,23
+410,Aakash Bhat,Sweden,4,Rep,5.0,Emrik Östling,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2,23
+411,Aakash Bhat,USA,4,Opp,7.0,Miguel Ceja,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2,23
+412,Aleksei Lukianchuk,Sweden,4,Rep,3.0,Emrik Östling,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2,23
+413,Aleksei Lukianchuk,USA,4,Opp,8.0,Miguel Ceja,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2,23
+414,Leandro Tessler,Sweden,4,Rep,6.0,Emrik Östling,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2,23
+415,Leandro Tessler,USA,4,Opp,6.0,Miguel Ceja,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2,23
+416,Nikolay Lysenko,Sweden,4,Rep,4.0,Emrik Östling,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2,23
+417,Nikolay Lysenko,USA,4,Opp,5.0,Miguel Ceja,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2,23
+418,Vitalii Lisovskyi,Sweden,4,Rep,6.0,Emrik Östling,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2,23
+419,Vitalii Lisovskyi,USA,4,Opp,7.0,Miguel Ceja,8. Heavy parachute,2,Selective Fight 4| Room PF Room 2| Round 2,23
+420,Bohdan Bidenko,Pakistan,4,Rep,6.0,Sabah Ud Din Ahmad,16. Graphite lamp,2,Selective Fight 4| Room PF Room 1| Round 2,22
+421,Bohdan Bidenko,Brazil,4,Opp,8.0,Ana Elisa Barioni,16. Graphite lamp,2,Selective Fight 4| Room PF Room 1| Round 2,22
+422,Dmytro Oliinychenko,Pakistan,4,Rep,5.0,Sabah Ud Din Ahmad,16. Graphite lamp,2,Selective Fight 4| Room PF Room 1| Round 2,22
+423,Dmytro Oliinychenko,Brazil,4,Opp,6.0,Ana Elisa Barioni,16. Graphite lamp,2,Selective Fight 4| Room PF Room 1| Round 2,22
+424,Georgy Fedorov,Pakistan,4,Rep,5.0,Sabah Ud Din Ahmad,16. Graphite lamp,2,Selective Fight 4| Room PF Room 1| Round 2,22
+425,Georgy Fedorov,Brazil,4,Opp,8.0,Ana Elisa Barioni,16. Graphite lamp,2,Selective Fight 4| Room PF Room 1| Round 2,22
+426,Riccardo Fabbricatore,Pakistan,4,Rep,7.0,Sabah Ud Din Ahmad,16. Graphite lamp,2,Selective Fight 4| Room PF Room 1| Round 2,22
+427,Riccardo Fabbricatore,Brazil,4,Opp,9.0,Ana Elisa Barioni,16. Graphite lamp,2,Selective Fight 4| Room PF Room 1| Round 2,22
+428,Alberto Rolandi,Brazil,6,Rep,9.0,Felipe Mazzi,13. Branching light,1,IPT2021 Final| Round 1,24
+429,Alberto Rolandi,Ukraine,6,Opp,4.0,Oleh Ivashtenko,13. Branching light,1,IPT2021 Final| Round 1,24
+430,Alberto Rolandi,Russia,6,Mod,4.0,Maksim Kleimenov,13. Branching light,1,IPT2021 Final| Round 1,24
+431,Amaury Barral,Brazil,6,Rep,7.0,Felipe Mazzi,13. Branching light,1,IPT2021 Final| Round 1,24
+432,Amaury Barral,Ukraine,6,Opp,5.0,Oleh Ivashtenko,13. Branching light,1,IPT2021 Final| Round 1,24
+433,Amaury Barral,Russia,6,Mod,9.0,Maksim Kleimenov,13. Branching light,1,IPT2021 Final| Round 1,24
+434,Dmytro Oliinychenko,Brazil,6,Rep,6.0,Felipe Mazzi,13. Branching light,1,IPT2021 Final| Round 1,24
+435,Dmytro Oliinychenko,Ukraine,6,Opp,5.0,Oleh Ivashtenko,13. Branching light,1,IPT2021 Final| Round 1,24
+436,Dmytro Oliinychenko,Russia,6,Mod,7.0,Maksim Kleimenov,13. Branching light,1,IPT2021 Final| Round 1,24
+437,Federico Serrano,Brazil,6,Rep,9.0,Felipe Mazzi,13. Branching light,1,IPT2021 Final| Round 1,24
+438,Federico Serrano,Ukraine,6,Opp,8.0,Oleh Ivashtenko,13. Branching light,1,IPT2021 Final| Round 1,24
+439,Federico Serrano,Russia,6,Mod,8.0,Maksim Kleimenov,13. Branching light,1,IPT2021 Final| Round 1,24
+440,Sebastian Fava,Brazil,6,Rep,8.0,Felipe Mazzi,13. Branching light,1,IPT2021 Final| Round 1,24
+441,Sebastian Fava,Ukraine,6,Opp,7.0,Oleh Ivashtenko,13. Branching light,1,IPT2021 Final| Round 1,24
+442,Sebastian Fava,Russia,6,Mod,6.0,Maksim Kleimenov,13. Branching light,1,IPT2021 Final| Round 1,24
+443,Sonia Natale,Brazil,6,Rep,7.0,Felipe Mazzi,13. Branching light,1,IPT2021 Final| Round 1,24
+444,Sonia Natale,Ukraine,6,Opp,7.0,Oleh Ivashtenko,13. Branching light,1,IPT2021 Final| Round 1,24
+445,Sonia Natale,Russia,6,Mod,8.0,Maksim Kleimenov,13. Branching light,1,IPT2021 Final| Round 1,24
+446,Åke Andersson,Brazil,6,Rep,5.0,Felipe Mazzi,13. Branching light,1,IPT2021 Final| Round 1,24
+447,Åke Andersson,Ukraine,6,Opp,5.0,Oleh Ivashtenko,13. Branching light,1,IPT2021 Final| Round 1,24
+448,Åke Andersson,Russia,6,Mod,5.0,Maksim Kleimenov,13. Branching light,1,IPT2021 Final| Round 1,24
+449,Alberto Rolandi,Ukraine,6,Rep,9.0,Hryhorii Ovcharenko,12. Metallic forest,2,IPT2021 Final| Round 2,24
+450,Alberto Rolandi,Russia,6,Opp,8.0,Ivan Polonik,12. Metallic forest,2,IPT2021 Final| Round 2,24
+451,Alberto Rolandi,Brazil,6,Mod,8.0,Ana Elisa Barioni,12. Metallic forest,2,IPT2021 Final| Round 2,24
+452,Amaury Barral,Ukraine,6,Rep,5.0,Hryhorii Ovcharenko,12. Metallic forest,2,IPT2021 Final| Round 2,24
+453,Amaury Barral,Russia,6,Opp,10.0,Ivan Polonik,12. Metallic forest,2,IPT2021 Final| Round 2,24
+454,Amaury Barral,Brazil,6,Mod,7.0,Ana Elisa Barioni,12. Metallic forest,2,IPT2021 Final| Round 2,24
+455,Dmytro Oliinychenko,Ukraine,6,Rep,7.0,Hryhorii Ovcharenko,12. Metallic forest,2,IPT2021 Final| Round 2,24
+456,Dmytro Oliinychenko,Russia,6,Opp,9.0,Ivan Polonik,12. Metallic forest,2,IPT2021 Final| Round 2,24
+457,Dmytro Oliinychenko,Brazil,6,Mod,8.0,Ana Elisa Barioni,12. Metallic forest,2,IPT2021 Final| Round 2,24
+458,Federico Serrano,Ukraine,6,Rep,9.0,Hryhorii Ovcharenko,12. Metallic forest,2,IPT2021 Final| Round 2,24
+459,Federico Serrano,Russia,6,Opp,9.0,Ivan Polonik,12. Metallic forest,2,IPT2021 Final| Round 2,24
+460,Federico Serrano,Brazil,6,Mod,9.0,Ana Elisa Barioni,12. Metallic forest,2,IPT2021 Final| Round 2,24
+461,Sebastian Fava,Ukraine,6,Rep,4.0,Hryhorii Ovcharenko,12. Metallic forest,2,IPT2021 Final| Round 2,24
+462,Sebastian Fava,Russia,6,Opp,9.0,Ivan Polonik,12. Metallic forest,2,IPT2021 Final| Round 2,24
+463,Sebastian Fava,Brazil,6,Mod,7.0,Ana Elisa Barioni,12. Metallic forest,2,IPT2021 Final| Round 2,24
+464,Sonia Natale,Ukraine,6,Rep,8.0,Hryhorii Ovcharenko,12. Metallic forest,2,IPT2021 Final| Round 2,24
+465,Sonia Natale,Russia,6,Opp,9.0,Ivan Polonik,12. Metallic forest,2,IPT2021 Final| Round 2,24
+466,Sonia Natale,Brazil,6,Mod,8.0,Ana Elisa Barioni,12. Metallic forest,2,IPT2021 Final| Round 2,24
+467,Åke Andersson,Ukraine,6,Rep,3.0,Hryhorii Ovcharenko,12. Metallic forest,2,IPT2021 Final| Round 2,24
+468,Åke Andersson,Russia,6,Opp,8.0,Ivan Polonik,12. Metallic forest,2,IPT2021 Final| Round 2,24
+469,Åke Andersson,Brazil,6,Mod,4.0,Ana Elisa Barioni,12. Metallic forest,2,IPT2021 Final| Round 2,24
+470,Alberto Rolandi,Russia,6,Rep,10.0,Artem Sukhov,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+471,Alberto Rolandi,Brazil,6,Opp,7.0,Leonardo Falabella,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+472,Alberto Rolandi,Ukraine,6,Mod,6.0,Oleksandr Kitsenko,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+473,Amaury Barral,Russia,6,Rep,4.0,Artem Sukhov,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+474,Amaury Barral,Brazil,6,Opp,5.0,Leonardo Falabella,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+475,Amaury Barral,Ukraine,6,Mod,6.0,Oleksandr Kitsenko,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+476,Dmytro Oliinychenko,Russia,6,Rep,9.0,Artem Sukhov,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+477,Dmytro Oliinychenko,Brazil,6,Opp,8.0,Leonardo Falabella,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+478,Dmytro Oliinychenko,Ukraine,6,Mod,8.0,Oleksandr Kitsenko,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+479,Federico Serrano,Russia,6,Rep,8.0,Artem Sukhov,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+480,Federico Serrano,Brazil,6,Opp,9.0,Leonardo Falabella,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+481,Federico Serrano,Ukraine,6,Mod,8.0,Oleksandr Kitsenko,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+482,Sebastian Fava,Russia,6,Rep,8.0,Artem Sukhov,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+483,Sebastian Fava,Brazil,6,Opp,8.0,Leonardo Falabella,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+484,Sebastian Fava,Ukraine,6,Mod,7.0,Oleksandr Kitsenko,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+485,Sonia Natale,Russia,6,Rep,9.0,Artem Sukhov,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+486,Sonia Natale,Brazil,6,Opp,7.0,Leonardo Falabella,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+487,Sonia Natale,Ukraine,6,Mod,7.0,Oleksandr Kitsenko,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+488,Åke Andersson,Russia,6,Rep,6.0,Artem Sukhov,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+489,Åke Andersson,Brazil,6,Opp,6.0,Leonardo Falabella,2. Pop-Pop away,3,IPT2021 Final| Round 3,24
+490,Åke Andersson,Ukraine,6,Mod,4.0,Oleksandr Kitsenko,2. Pop-Pop away,3,IPT2021 Final| Round 3,24

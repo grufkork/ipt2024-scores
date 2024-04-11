@@ -56,7 +56,7 @@ def parse_round(sec, fightN, page):
 
 
         for role in ["Rep", "Opp", "Mod"]:
-            frame.append([name, roles[role]["country"], fightN, role, float(grades[role]), roles[role]["name"], problem, round, fightName])
+            frame.append([name, roles[role]["country"], fightN, role, float(grades[role]), roles[role]["name"], problem, round, fightName, fightN])
 
 
     
@@ -78,7 +78,7 @@ for i in range(len(frame)):
             frame[i][j] = frame[i][j].strip()
 
 
-pdframe = pd.DataFrame(frame, columns = ["juror", "country", "fight", "role", "score", "participant", "problem", "round", "fightName"])
+pdframe = pd.DataFrame(frame, columns = ["juror", "country", "fight", "role", "score", "participant", "problem", "round", "fightName", "fightID"])
 print(pdframe)
 
 pdframe.to_csv("scores.csv")

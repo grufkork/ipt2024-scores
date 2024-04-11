@@ -68,10 +68,10 @@ def parse_round(sec):
         name = data[0].text
 
         for (i, role) in enumerate(r):
-            frame.append([name, roles[role]["country"], fightnum, role, float(data[i+1].text), roles[role]["name"], problem, roundnum, fightName])
+            frame.append([name, roles[role]["country"], fightnum, role, float(data[i+1].text), roles[role]["name"], problem, roundnum, fightName, -1])
 
 for i in range(100):
-    scorepage = requests.get("https://archive.ipt.ee/ipt_connect-2016-2022/IPT2019/rounds/" + str(i + 1) + "/index.html")
+    scorepage = requests.get("https://archive.ipt.ee/ipt_connect-2016-2022/IPT2022/rounds/" + str(i + 1) + "/index.html")
     print(i)
 
 
@@ -82,13 +82,25 @@ for i in range(100):
     except:
         print("Failed to parse " + str(i+1))
 
+nextID = 0
+fightIDs = {}
+
 for i in range(len(frame)):
     for j in range(len(frame[i])):
         if isinstance(frame[i][j], str):
             frame[i][j] = clean(frame[i][j])
 
+    split = frame[i][8].split("|")
+    del split[len(split)-1]
+    name = "".join(split)
+    if not name in fightIDs:
+        fightIDs[name] = nextID
+        nextID += 1
 
-pdframe = pd.DataFrame(frame, columns = ["juror", "country", "fight", "role", "score", "participant", "problem", "round", "fightName"])
+    frame[i][9] = fightIDs[name]
+
+
+pdframe = pd.DataFrame(frame, columns = ["juror", "country", "fight", "role", "score", "participant", "problem", "round", "fightName", "fightID"])
 # print(pdframe)
 
 pdframe.to_csv("scores.csv")
